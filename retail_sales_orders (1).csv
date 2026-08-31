@@ -1,0 +1,601 @@
+order_id,order_date,customer_id,customer_name,age,gender,city,region,product,category,quantity,unit_price,discount_pct,total_amount,payment_method,order_status
+ORD5510,2025-01-01,CUST1063,Vihaan Das,47,Female,Kochi,South,Laptop Stand,Electronics,3,1199,0,3597,Cash on Delivery,Delivered
+ORD5571,2025-01-01,CUST1146,Aarav Patel,50,Female,Kolkata,East,Yoga Mat,Fitness,2,899,0,1798,Net Banking,Delivered
+ORD5008,2025-01-02,CUST1059,Anika Sharma,23,Female,Chandigarh,North,Desk Organizer,Stationery,2,449,0,898,Debit Card,Returned
+ORD5038,2025-01-03,CUST1052,Pari Singh,56,Female,Hyderabad,South,Denim Jeans,Apparel,2,1299,20,2078,Cash on Delivery,Delivered
+ORD5415,2025-01-03,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Running Shoes,Footwear,2,2499,0,4998,Cash on Delivery,Cancelled
+ORD5081,2025-01-04,CUST1128,Pari Chauhan,54,Male,Jaipur,North,Running Shoes,Footwear,1,2499,15,2124,Debit Card,Delivered
+ORD5583,2025-01-05,CUST1160,Vikram Rao,46,Male,Ahmedabad,West,Coffee Maker,Home & Kitchen,1,2599,0,2599,Cash on Delivery,Delivered
+ORD5012,2025-01-06,CUST1171,Saanvi Nair,34,Female,Bhopal,Central,Cotton T-Shirt,Apparel,1,499,0,499,Net Banking,Delivered
+ORD5074,2025-01-06,CUST1213,Rahul Iyer,20,Male,Chandigarh,North,Yoga Mat,Fitness,2,899,0,1798,UPI,Delivered
+ORD5052,2025-01-07,CUST1072,Vivaan Nair,36,Male,Bhubaneswar,East,Casual Sneakers,Footwear,3,1899,5,5412,Cash on Delivery,Delivered
+ORD5207,2025-01-08,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Denim Jeans,Apparel,1,1299,0,1299,UPI,Cancelled
+ORD5317,2025-01-08,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Casual Sneakers,Footwear,1,1899,5,1804,Debit Card,Cancelled
+ORD5344,2025-01-08,CUST1150,Reyansh Rao,31,Male,Kochi,South,Formal Shoes,Footwear,1,2799,5,2659,Credit Card,Delivered
+ORD5395,2025-01-08,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,USB-C Charger,Electronics,3,799,5,2277,Net Banking,Cancelled
+ORD5577,2025-01-09,CUST1025,Ishaan Rao,19,Male,Pune,West,Bluetooth Headphones,Electronics,1,1499,15,1274,UPI,Delivered
+ORD5166,2025-01-10,CUST1038,Diya Nair,41,Male,Patna,East,Notebook Set,Stationery,1,199,0,199,Cash on Delivery,Cancelled
+ORD5025,2025-01-14,CUST1121,Pari Mehta,31,Female,Bhubaneswar,East,Coffee Maker,Home & Kitchen,3,2599,10,7017,Credit Card,Delivered
+ORD5318,2025-01-14,CUST1008,Diya Reddy,54,Male,Jaipur,North,Casual Sneakers,Footwear,1,1899,15,1614,Cash on Delivery,Cancelled
+ORD5377,2025-01-14,CUST1135,Sanjay Singh,43,Female,Lucknow,North,Water Bottle,Fitness,1,349,15,297,Net Banking,Delivered
+ORD5536,2025-01-15,CUST1193,Riya Joshi,45,Female,Patna,East,Dumbbell Set,Fitness,1,2199,0,2199,Credit Card,Delivered
+ORD5128,2025-01-18,CUST1052,Pari Singh,56,Female,Hyderabad,South,Running Shoes,Footwear,1,2499,0,2499,Debit Card,Returned
+ORD5476,2025-01-18,CUST1172,Myra Desai,53,Female,Delhi,North,Formal Shoes,Footwear,1,2799,15,2379,Cash on Delivery,Cancelled
+ORD5167,2025-01-19,CUST1178,Kiara Singh,30,Male,Kolkata,East,Water Bottle,Fitness,2,349,5,663,UPI,Delivered
+ORD5174,2025-01-19,CUST1069,Ananya Desai,48,Female,Kolkata,East,Desk Organizer,Stationery,1,449,5,427,UPI,Returned
+ORD5091,2025-01-21,CUST1033,Diya Chauhan,26,Male,Patna,East,Notebook Set,Stationery,4,199,0,796,Net Banking,Delivered
+ORD5173,2025-01-21,CUST1163,Vivaan Das,21,Female,Kochi,South,Bluetooth Headphones,Electronics,3,1499,15,3822,Net Banking,Delivered
+ORD5175,2025-01-21,CUST1065,Amit Joshi,28,Female,Jaipur,North,Laptop Stand,Electronics,1,1199,0,1199,UPI,Delivered
+ORD5253,2025-01-23,CUST1030,Ira Verma,25,Male,Lucknow,North,Denim Jeans,Apparel,1,1299,5,1234,Debit Card,Delivered
+ORD5454,2025-01-24,CUST1037,Vikram Kulkarni,38,Male,Bhopal,Central,Casual Sneakers,Footwear,2,1899,5,3608,Credit Card,Delivered
+ORD5007,2025-01-25,CUST1158,Vihaan Sharma,24,Female,Pune,West,Water Bottle,Fitness,1,349,0,349,Cash on Delivery,Delivered
+ORD5350,2025-01-25,CUST1069,Ananya Desai,48,Female,Kolkata,East,USB-C Charger,Electronics,4,799,0,3196,Net Banking,Delivered
+ORD5356,2025-01-26,CUST1023,Sanjay Das,33,Male,Patna,East,Desk Organizer,Stationery,2,449,15,763,Net Banking,Delivered
+ORD5384,2025-01-26,CUST1216,Vikram Kumar,29,Female,Patna,East,Notebook Set,Stationery,1,199,0,199,Credit Card,Cancelled
+ORD5398,2025-01-26,CUST1120,Manish Rao,28,Male,Delhi,North,Laptop Stand,Electronics,1,1199,0,1199,Credit Card,Delivered
+ORD5432,2025-01-28,CUST1035,Pooja Mehta,35,Female,Bangalore,South,Cotton T-Shirt,Apparel,3,499,20,1198,Cash on Delivery,Cancelled
+ORD5383,2025-01-29,CUST1015,Ananya Joshi,57,Female,Lucknow,North,Casual Sneakers,Footwear,2,1899,5,3608,Cash on Delivery,Returned
+ORD5487,2025-01-29,CUST1151,Ishaan Rao,25,Female,Pune,West,Water Bottle,Fitness,1,349,15,297,Net Banking,Delivered
+ORD5144,2025-01-30,CUST1117,Vihaan Patel,19,Female,Bhubaneswar,East,Coffee Maker,Home & Kitchen,1,2599,20,2079,Credit Card,Cancelled
+ORD5284,2025-01-30,CUST1199,Sai Kulkarni,29,Male,Bhubaneswar,East,USB-C Charger,Electronics,1,799,10,719,Credit Card,Delivered
+ORD5319,2025-01-30,CUST1104,Rahul Patel,23,Male,Indore,Central,Desk Organizer,Stationery,2,449,0,898,UPI,Delivered
+ORD5574,2025-01-30,CUST1134,Riya Joshi,27,Male,Ahmedabad,West,Mechanical Keyboard,Electronics,2,2999,15,5098,Credit Card,Delivered
+ORD5132,2025-01-31,CUST1045,Sneha Gupta,26,Female,Ahmedabad,West,Bluetooth Headphones,Electronics,4,1499,20,4797,UPI,Returned
+ORD5273,2025-01-31,CUST1103,Aditya Chauhan,37,Male,Surat,West,Desk Organizer,Stationery,2,449,15,763,Debit Card,Cancelled
+ORD5450,2025-01-31,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Dumbbell Set,Fitness,4,2199,15,7477,Cash on Delivery,Cancelled
+ORD5211,2025-02-01,CUST1211,Diya Gupta,47,Male,Bhubaneswar,East,Non-stick Pan,Home & Kitchen,2,999,15,1698,UPI,Cancelled
+ORD5554,2025-02-01,CUST1123,Kavya Bhat,47,Male,Delhi,North,Running Shoes,Footwear,3,2499,0,7497,Credit Card,Delivered
+ORD5011,2025-02-02,CUST1004,Vivaan Yadav,26,Male,Nagpur,Central,Formal Shoes,Footwear,2,2799,5,5318,Credit Card,Cancelled
+ORD5129,2025-02-02,CUST1181,Vivaan Reddy,19,Female,Chandigarh,North,Non-stick Pan,Home & Kitchen,1,999,15,849,Cash on Delivery,Returned
+ORD5531,2025-02-02,CUST1010,Riya Menon,42,Female,Bhubaneswar,East,Hooded Jacket,Apparel,1,1999,0,1999,UPI,Returned
+ORD5538,2025-02-02,CUST1154,Aadhya Verma,22,Male,Jaipur,North,USB-C Charger,Electronics,2,799,0,1598,UPI,Cancelled
+ORD5333,2025-02-03,CUST1083,Pari Rao,32,Male,Surat,West,Wireless Mouse,Electronics,1,599,10,539,Cash on Delivery,Cancelled
+ORD5546,2025-02-03,CUST1066,Krishna Reddy,44,Female,Kochi,South,USB-C Charger,Electronics,2,799,0,1598,UPI,Delivered
+ORD5184,2025-02-04,CUST1076,Aditya Kumar,26,Female,Bhopal,Central,Bluetooth Headphones,Electronics,2,1499,0,2998,Debit Card,Returned
+ORD5217,2025-02-04,CUST1155,Sanjay Mehta,26,Male,Surat,West,Cotton T-Shirt,Apparel,4,499,5,1896,Cash on Delivery,Delivered
+ORD5391,2025-02-04,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Bluetooth Headphones,Electronics,2,1499,0,2998,Net Banking,Delivered
+ORD5473,2025-02-04,CUST1055,Aarav Menon,30,Male,Indore,Central,Hooded Jacket,Apparel,2,1999,20,3198,UPI,Returned
+ORD5171,2025-02-05,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Wireless Mouse,Electronics,1,599,5,569,Cash on Delivery,Delivered
+ORD5468,2025-02-05,CUST1155,Sanjay Mehta,26,Male,Surat,West,Yoga Mat,Fitness,1,899,0,899,UPI,Returned
+ORD5157,2025-02-06,CUST1092,Aditya Kumar,24,Male,Bangalore,South,Table Lamp,Home & Kitchen,4,749,20,2397,Debit Card,Delivered
+ORD5291,2025-02-07,CUST1113,Krishna Chauhan,50,Female,Lucknow,North,Laptop Stand,Electronics,2,1199,5,2278,Credit Card,Delivered
+ORD5582,2025-02-07,CUST1106,Vivaan Chauhan,36,Male,Chandigarh,North,Yoga Mat,Fitness,4,899,0,3596,UPI,Cancelled
+ORD5064,2025-02-08,CUST1065,Amit Joshi,28,Female,Jaipur,North,Cotton T-Shirt,Apparel,1,499,0,499,Cash on Delivery,Delivered
+ORD5522,2025-02-08,CUST1148,Amit Mehta,45,Female,Mumbai,West,Hooded Jacket,Apparel,2,1999,0,3998,UPI,Delivered
+ORD5138,2025-02-09,CUST1205,Krishna Patel,21,Male,Jaipur,North,Bluetooth Headphones,Electronics,1,1499,15,1274,Debit Card,Returned
+ORD5348,2025-02-09,CUST1129,Vikram Menon,46,Male,Ahmedabad,West,Laptop Stand,Electronics,1,1199,15,1019,Credit Card,Delivered
+ORD5465,2025-02-09,CUST1121,Pari Mehta,31,Female,Bhubaneswar,East,Storage Organizer,Home & Kitchen,3,649,0,1947,Cash on Delivery,Delivered
+ORD5516,2025-02-09,CUST1159,Aadhya Reddy,54,Male,Lucknow,North,Desk Organizer,Stationery,2,449,10,808,UPI,Cancelled
+ORD5524,2025-02-10,CUST1167,Vihaan Chauhan,48,Female,Jaipur,North,Casual Sneakers,Footwear,3,1899,10,5127,UPI,Delivered
+ORD5041,2025-02-11,CUST1128,Pari Chauhan,54,Male,Jaipur,North,Running Shoes,Footwear,1,2499,5,2374,Net Banking,Delivered
+ORD5256,2025-02-12,CUST1003,Aadhya Gupta,34,Male,Chandigarh,North,Non-stick Pan,Home & Kitchen,4,999,10,3596,Debit Card,Cancelled
+ORD5456,2025-02-13,CUST1007,Riya Rao,54,Male,Bangalore,South,Water Bottle,Fitness,1,349,0,349,Cash on Delivery,Cancelled
+ORD5515,2025-02-13,CUST1001,Saanvi Verma,23,Male,Kolkata,East,USB-C Charger,Electronics,3,799,5,2277,Net Banking,Returned
+ORD5242,2025-02-14,CUST1010,Riya Menon,42,Female,Bhubaneswar,East,Hooded Jacket,Apparel,1,1999,15,1699,Cash on Delivery,Delivered
+ORD5501,2025-02-14,CUST1137,Riya Chauhan,19,Male,Surat,West,Dumbbell Set,Fitness,1,2199,15,1869,UPI,Delivered
+ORD5232,2025-02-15,CUST1195,Aadhya Nair,46,Male,Bangalore,South,Denim Jeans,Apparel,1,1299,10,1169,Debit Card,Delivered
+ORD5441,2025-02-15,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Non-stick Pan,Home & Kitchen,2,999,0,1998,Credit Card,Delivered
+ORD5533,2025-02-15,CUST1105,Rahul Rao,58,Male,Bhubaneswar,East,Table Lamp,Home & Kitchen,2,749,20,1198,Credit Card,Cancelled
+ORD5243,2025-02-16,CUST1192,Neha Rao,45,Male,Ahmedabad,West,Desk Organizer,Stationery,3,449,0,1347,Cash on Delivery,Delivered
+ORD5258,2025-02-16,CUST1201,Ananya Verma,57,Female,Chandigarh,North,Storage Organizer,Home & Kitchen,1,649,0,649,Debit Card,Cancelled
+ORD5323,2025-02-16,CUST1040,Sneha Singh,44,Male,Bhopal,Central,Casual Sneakers,Footwear,1,1899,10,1709,Debit Card,Delivered
+ORD5121,2025-02-17,CUST1130,Krishna Gupta,30,Female,Bhopal,Central,Notebook Set,Stationery,1,199,0,199,Debit Card,Delivered
+ORD5163,2025-02-18,CUST1134,Riya Joshi,27,Male,Ahmedabad,West,Formal Shoes,Footwear,2,2799,0,5598,Credit Card,Cancelled
+ORD5413,2025-02-19,CUST1119,Vikram Kumar,22,Female,Bhubaneswar,East,Bluetooth Headphones,Electronics,1,1499,5,1424,Credit Card,Delivered
+ORD5513,2025-02-19,CUST1123,Kavya Bhat,47,Male,Delhi,North,Laptop Stand,Electronics,2,1199,15,2038,Credit Card,Delivered
+ORD5545,2025-02-19,CUST1080,Pari Nair,36,Female,Bhubaneswar,East,Cotton T-Shirt,Apparel,1,499,0,499,Cash on Delivery,Delivered
+ORD5424,2025-02-20,CUST1211,Diya Gupta,47,Male,Bhubaneswar,East,Formal Shoes,Footwear,1,2799,0,2799,Credit Card,Delivered
+ORD5551,2025-02-20,CUST1062,Kavya Desai,31,Female,Nagpur,Central,Coffee Maker,Home & Kitchen,1,2599,0,2599,Cash on Delivery,Cancelled
+ORD5002,2025-02-23,CUST1143,Krishna Pillai,19,Male,Ahmedabad,West,Table Lamp,Home & Kitchen,2,749,15,1273,Net Banking,Delivered
+ORD5015,2025-02-23,CUST1048,Aarav Iyer,56,Female,Chennai,South,Formal Shoes,Footwear,1,2799,15,2379,Net Banking,Delivered
+ORD5345,2025-02-23,CUST1130,Krishna Gupta,30,Female,Bhopal,Central,Desk Organizer,Stationery,1,449,0,449,UPI,Cancelled
+ORD5446,2025-02-23,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Table Lamp,Home & Kitchen,1,749,15,637,Cash on Delivery,Delivered
+ORD5514,2025-02-24,CUST1207,Riya Singh,46,Female,Ahmedabad,West,Table Lamp,Home & Kitchen,1,749,5,712,Cash on Delivery,Returned
+ORD5092,2025-02-25,CUST1104,Rahul Patel,23,Male,Indore,Central,Storage Organizer,Home & Kitchen,2,649,0,1298,UPI,Delivered
+ORD5482,2025-02-26,CUST1153,Kavya Das,22,Male,Jaipur,North,Bluetooth Headphones,Electronics,1,1499,15,1274,Credit Card,Delivered
+ORD5254,2025-02-27,CUST1078,Vihaan Nair,35,Male,Jaipur,North,Casual Sneakers,Footwear,1,1899,0,1899,Debit Card,Delivered
+ORD5140,2025-03-01,CUST1116,Manish Mehta,19,Female,Kolkata,East,Hooded Jacket,Apparel,1,1999,0,1999,Debit Card,Cancelled
+ORD5434,2025-03-01,CUST1192,Neha Rao,45,Male,Ahmedabad,West,Notebook Set,Stationery,1,199,20,159,Debit Card,Delivered
+ORD5422,2025-03-03,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Desk Organizer,Stationery,1,449,0,449,Net Banking,Delivered
+ORD5209,2025-03-04,CUST1132,Sanjay Sharma,45,Female,Bhopal,Central,Mechanical Keyboard,Electronics,2,2999,0,5998,Credit Card,Delivered
+ORD5228,2025-03-04,CUST1104,Rahul Patel,23,Male,Indore,Central,Desk Organizer,Stationery,1,449,0,449,Net Banking,Cancelled
+ORD5329,2025-03-04,CUST1103,Aditya Chauhan,37,Male,Surat,West,USB-C Charger,Electronics,4,799,5,3036,Net Banking,Delivered
+ORD5315,2025-03-08,CUST1129,Vikram Menon,46,Male,Ahmedabad,West,Laptop Stand,Electronics,1,1199,10,1079,UPI,Returned
+ORD5297,2025-03-09,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Hooded Jacket,Apparel,1,1999,0,1999,Net Banking,Returned
+ORD5327,2025-03-09,CUST1072,Vivaan Nair,36,Male,Bhubaneswar,East,Yoga Mat,Fitness,1,899,20,719,UPI,Delivered
+ORD5475,2025-03-09,CUST1187,Vivaan Pillai,32,Male,Hyderabad,South,Cotton T-Shirt,Apparel,2,499,10,898,Credit Card,Delivered
+ORD5599,2025-03-09,CUST1017,Pooja Rao,55,Female,Delhi,North,Desk Organizer,Stationery,1,449,20,359,Debit Card,Cancelled
+ORD5281,2025-03-10,CUST1021,Sai Menon,44,Female,Mumbai,West,Water Bottle,Fitness,2,349,15,593,Net Banking,Returned
+ORD5488,2025-03-10,CUST1085,Aarav Gupta,35,Female,Jaipur,North,Cotton T-Shirt,Apparel,1,499,5,474,Cash on Delivery,Delivered
+ORD5266,2025-03-12,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,USB-C Charger,Electronics,1,799,0,799,Cash on Delivery,Delivered
+ORD5453,2025-03-12,CUST1192,Neha Rao,45,Male,Ahmedabad,West,Non-stick Pan,Home & Kitchen,1,999,0,999,Debit Card,Delivered
+ORD5079,2025-03-13,CUST1143,Krishna Pillai,19,Male,Ahmedabad,West,Laptop Stand,Electronics,1,1199,0,1199,Cash on Delivery,Delivered
+ORD5458,2025-03-13,CUST1212,Aditya Mehta,51,Male,Jaipur,North,Bluetooth Headphones,Electronics,2,1499,0,2998,Net Banking,Delivered
+ORD5304,2025-03-14,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Denim Jeans,Apparel,2,1299,0,2598,UPI,Cancelled
+ORD5075,2025-03-15,CUST1168,Manish Chauhan,27,Female,Bhubaneswar,East,Denim Jeans,Apparel,1,1299,0,1299,Credit Card,Delivered
+ORD5309,2025-03-15,CUST1146,Aarav Patel,50,Female,Kolkata,East,Denim Jeans,Apparel,4,1299,5,4936,Debit Card,Delivered
+ORD5347,2025-03-17,CUST1110,Manish Kulkarni,47,Female,Mumbai,West,Wireless Mouse,Electronics,1,599,10,539,Net Banking,Cancelled
+ORD5521,2025-03-17,CUST1095,Myra Iyer,37,Male,Patna,East,Cotton T-Shirt,Apparel,1,499,10,449,Net Banking,Delivered
+ORD5341,2025-03-19,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Denim Jeans,Apparel,2,1299,15,2208,Credit Card,Delivered
+ORD5452,2025-03-19,CUST1097,Neha Singh,24,Male,Indore,Central,Non-stick Pan,Home & Kitchen,1,999,5,949,Net Banking,Cancelled
+ORD5464,2025-03-19,CUST1164,Ishaan Patel,23,Female,Delhi,North,Running Shoes,Footwear,2,2499,0,4998,Net Banking,Delivered
+ORD5496,2025-03-20,CUST1206,Saanvi Pillai,48,Female,Kolkata,East,Non-stick Pan,Home & Kitchen,2,999,0,1998,Cash on Delivery,Delivered
+ORD5512,2025-03-20,CUST1143,Krishna Pillai,19,Male,Ahmedabad,West,Notebook Set,Stationery,3,199,0,597,UPI,Delivered
+ORD5142,2025-03-21,CUST1113,Krishna Chauhan,50,Female,Lucknow,North,Mechanical Keyboard,Electronics,1,2999,0,2999,Debit Card,Delivered
+ORD5186,2025-03-21,CUST1134,Riya Joshi,27,Male,Ahmedabad,West,Formal Shoes,Footwear,4,2799,10,10076,Debit Card,Delivered
+ORD5114,2025-03-22,CUST1177,Riya Kumar,42,Female,Bhubaneswar,East,Wireless Mouse,Electronics,1,599,0,599,UPI,Returned
+ORD5322,2025-03-22,CUST1107,Rohan Kulkarni,37,Female,Kochi,South,Desk Organizer,Stationery,2,449,15,763,UPI,Delivered
+ORD5412,2025-03-24,CUST1117,Vihaan Patel,19,Female,Bhubaneswar,East,Laptop Stand,Electronics,2,1199,0,2398,Cash on Delivery,Returned
+ORD5457,2025-03-24,CUST1127,Saanvi Reddy,29,Male,Indore,Central,Yoga Mat,Fitness,2,899,0,1798,Cash on Delivery,Returned
+ORD5527,2025-03-25,CUST1008,Diya Reddy,54,Male,Jaipur,North,Hooded Jacket,Apparel,1,1999,0,1999,Cash on Delivery,Cancelled
+ORD5598,2025-03-25,CUST1067,Sai Bhat,51,Female,Chennai,South,Hooded Jacket,Apparel,1,1999,0,1999,UPI,Delivered
+ORD5270,2025-03-26,CUST1113,Krishna Chauhan,50,Female,Lucknow,North,Wireless Mouse,Electronics,2,599,15,1018,Debit Card,Delivered
+ORD5549,2025-03-26,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Laptop Stand,Electronics,3,1199,15,3057,Cash on Delivery,Delivered
+ORD5427,2025-03-27,CUST1202,Rahul Singh,58,Female,Jaipur,North,Formal Shoes,Footwear,1,2799,5,2659,Debit Card,Delivered
+ORD5046,2025-03-28,CUST1216,Vikram Kumar,29,Female,Patna,East,Non-stick Pan,Home & Kitchen,2,999,10,1798,Cash on Delivery,Delivered
+ORD5136,2025-03-28,CUST1066,Krishna Reddy,44,Female,Kochi,South,Dumbbell Set,Fitness,1,2199,5,2089,Credit Card,Delivered
+ORD5342,2025-03-28,CUST1078,Vihaan Nair,35,Male,Jaipur,North,Mechanical Keyboard,Electronics,1,2999,0,2999,Cash on Delivery,Delivered
+ORD5362,2025-03-28,CUST1194,Rahul Patel,44,Female,Lucknow,North,Table Lamp,Home & Kitchen,1,749,0,749,Credit Card,Delivered
+ORD5210,2025-03-29,CUST1133,Saanvi Kumar,40,Male,Pune,West,Table Lamp,Home & Kitchen,1,749,0,749,Cash on Delivery,Returned
+ORD5459,2025-03-29,CUST1207,Riya Singh,46,Female,Ahmedabad,West,Bluetooth Headphones,Electronics,1,1499,10,1349,Debit Card,Cancelled
+ORD5541,2025-03-30,CUST1066,Krishna Reddy,44,Female,Kochi,South,Denim Jeans,Apparel,1,1299,10,1169,UPI,Delivered
+ORD5594,2025-03-30,CUST1070,Ananya Kulkarni,58,Female,Chandigarh,North,Wireless Mouse,Electronics,1,599,0,599,Credit Card,Delivered
+ORD5095,2025-03-31,CUST1055,Aarav Menon,30,Male,Indore,Central,Bluetooth Headphones,Electronics,2,1499,5,2848,Credit Card,Delivered
+ORD5150,2025-03-31,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Running Shoes,Footwear,1,2499,0,2499,Net Banking,Delivered
+ORD5589,2025-03-31,CUST1092,Aditya Kumar,24,Male,Bangalore,South,Yoga Mat,Fitness,2,899,0,1798,UPI,Delivered
+ORD5349,2025-04-01,CUST1219,Vivaan Patel,30,Female,Bhubaneswar,East,Formal Shoes,Footwear,2,2799,0,5598,Debit Card,Delivered
+ORD5363,2025-04-01,CUST1173,Sanjay Reddy,23,Female,Kochi,South,Running Shoes,Footwear,1,2499,10,2249,UPI,Cancelled
+ORD5262,2025-04-05,CUST1201,Ananya Verma,57,Female,Chandigarh,North,Denim Jeans,Apparel,2,1299,0,2598,Debit Card,Cancelled
+ORD5385,2025-04-06,CUST1083,Pari Rao,32,Male,Surat,West,Hooded Jacket,Apparel,1,1999,20,1599,Debit Card,Returned
+ORD5204,2025-04-07,CUST1135,Sanjay Singh,43,Female,Lucknow,North,Denim Jeans,Apparel,3,1299,0,3897,Credit Card,Delivered
+ORD5275,2025-04-07,CUST1077,Anika Bhat,36,Male,Lucknow,North,Hooded Jacket,Apparel,1,1999,5,1899,Cash on Delivery,Delivered
+ORD5489,2025-04-08,CUST1175,Krishna Iyer,45,Female,Pune,West,Desk Organizer,Stationery,1,449,0,449,Cash on Delivery,Delivered
+ORD5152,2025-04-09,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Desk Organizer,Stationery,2,449,5,853,Debit Card,Returned
+ORD5283,2025-04-09,CUST1213,Rahul Iyer,20,Male,Chandigarh,North,Dumbbell Set,Fitness,1,2199,20,1759,Cash on Delivery,Returned
+ORD5580,2025-04-09,CUST1151,Ishaan Rao,25,Female,Pune,West,Yoga Mat,Fitness,3,899,20,2158,UPI,Delivered
+ORD5050,2025-04-11,CUST1067,Sai Bhat,51,Female,Chennai,South,Laptop Stand,Electronics,1,1199,10,1079,Credit Card,Delivered
+ORD5051,2025-04-11,CUST1038,Diya Nair,41,Male,Patna,East,Denim Jeans,Apparel,2,1299,0,2598,UPI,Delivered
+ORD5591,2025-04-11,CUST1165,Ananya Pillai,21,Female,Bhubaneswar,East,Casual Sneakers,Footwear,2,1899,10,3418,Debit Card,Delivered
+ORD5134,2025-04-12,CUST1026,Ira Yadav,39,Male,Ahmedabad,West,Mechanical Keyboard,Electronics,1,2999,0,2999,Debit Card,Cancelled
+ORD5355,2025-04-12,CUST1066,Krishna Reddy,44,Female,Kochi,South,Desk Organizer,Stationery,2,449,20,718,UPI,Cancelled
+ORD5418,2025-04-12,CUST1146,Aarav Patel,50,Female,Kolkata,East,Storage Organizer,Home & Kitchen,1,649,0,649,Cash on Delivery,Delivered
+ORD5596,2025-04-12,CUST1007,Riya Rao,54,Male,Bangalore,South,Laptop Stand,Electronics,1,1199,0,1199,Cash on Delivery,Delivered
+ORD5060,2025-04-13,CUST1065,Amit Joshi,28,Female,Jaipur,North,Storage Organizer,Home & Kitchen,1,649,10,584,Debit Card,Returned
+ORD5314,2025-04-13,CUST1181,Vivaan Reddy,19,Female,Chandigarh,North,Wireless Mouse,Electronics,1,599,0,599,Debit Card,Returned
+ORD5023,2025-04-14,CUST1004,Vivaan Yadav,26,Male,Nagpur,Central,Running Shoes,Footwear,1,2499,0,2499,Debit Card,Delivered
+ORD5145,2025-04-14,CUST1144,Kiara Kumar,39,Male,Nagpur,Central,Coffee Maker,Home & Kitchen,3,2599,0,7797,Cash on Delivery,Delivered
+ORD5248,2025-04-14,CUST1016,Aditya Gupta,36,Female,Nagpur,Central,Running Shoes,Footwear,1,2499,0,2499,Debit Card,Cancelled
+ORD5388,2025-04-14,CUST1098,Rahul Joshi,25,Female,Jaipur,North,Water Bottle,Fitness,3,349,0,1047,UPI,Delivered
+ORD5397,2025-04-16,CUST1206,Saanvi Pillai,48,Female,Kolkata,East,Casual Sneakers,Footwear,1,1899,0,1899,UPI,Returned
+ORD5503,2025-04-16,CUST1144,Kiara Kumar,39,Male,Nagpur,Central,Non-stick Pan,Home & Kitchen,1,999,5,949,Credit Card,Delivered
+ORD5405,2025-04-18,CUST1030,Ira Verma,25,Male,Lucknow,North,Bluetooth Headphones,Electronics,3,1499,0,4497,Net Banking,Cancelled
+ORD5085,2025-04-20,CUST1124,Vivaan Desai,27,Male,Bhubaneswar,East,Coffee Maker,Home & Kitchen,2,2599,0,5198,Cash on Delivery,Cancelled
+ORD5285,2025-04-20,CUST1013,Vihaan Kulkarni,45,Male,Bhopal,Central,Yoga Mat,Fitness,1,899,10,809,Debit Card,Delivered
+ORD5440,2025-04-20,CUST1155,Sanjay Mehta,26,Male,Surat,West,Denim Jeans,Apparel,1,1299,0,1299,Debit Card,Delivered
+ORD5500,2025-04-20,CUST1042,Reyansh Pillai,41,Female,Ahmedabad,West,Water Bottle,Fitness,1,349,0,349,Net Banking,Cancelled
+ORD5382,2025-04-21,CUST1210,Saanvi Reddy,23,Male,Kochi,South,Wireless Mouse,Electronics,1,599,0,599,Cash on Delivery,Returned
+ORD5022,2025-04-22,CUST1176,Krishna Desai,26,Female,Indore,Central,Table Lamp,Home & Kitchen,4,749,0,2996,Net Banking,Delivered
+ORD5267,2025-04-22,CUST1023,Sanjay Das,33,Male,Patna,East,Bluetooth Headphones,Electronics,3,1499,5,4272,Debit Card,Cancelled
+ORD5565,2025-04-22,CUST1154,Aadhya Verma,22,Male,Jaipur,North,Non-stick Pan,Home & Kitchen,3,999,0,2997,Debit Card,Delivered
+ORD5214,2025-04-23,CUST1050,Sneha Reddy,52,Male,Delhi,North,Non-stick Pan,Home & Kitchen,2,999,0,1998,Net Banking,Delivered
+ORD5511,2025-04-23,CUST1013,Vihaan Kulkarni,45,Male,Bhopal,Central,Dumbbell Set,Fitness,1,2199,20,1759,UPI,Cancelled
+ORD5550,2025-04-23,CUST1196,Riya Joshi,48,Male,Chandigarh,North,Wireless Mouse,Electronics,1,599,0,599,Debit Card,Delivered
+ORD5006,2025-04-24,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Hooded Jacket,Apparel,2,1999,10,3598,Debit Card,Delivered
+ORD5361,2025-04-24,CUST1220,Neha Mehta,43,Male,Hyderabad,South,Yoga Mat,Fitness,1,899,5,854,UPI,Delivered
+ORD5381,2025-04-24,CUST1085,Aarav Gupta,35,Female,Jaipur,North,Dumbbell Set,Fitness,2,2199,0,4398,Net Banking,Delivered
+ORD5586,2025-04-24,CUST1098,Rahul Joshi,25,Female,Jaipur,North,Coffee Maker,Home & Kitchen,2,2599,0,5198,Credit Card,Cancelled
+ORD5226,2025-04-27,CUST1054,Manish Kulkarni,27,Male,Surat,West,Denim Jeans,Apparel,4,1299,5,4936,Credit Card,Delivered
+ORD5279,2025-04-27,CUST1049,Neha Joshi,28,Male,Kochi,South,Table Lamp,Home & Kitchen,2,749,10,1348,Cash on Delivery,Returned
+ORD5408,2025-04-27,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Coffee Maker,Home & Kitchen,1,2599,15,2209,Debit Card,Returned
+ORD5004,2025-04-28,CUST1038,Diya Nair,41,Male,Patna,East,Yoga Mat,Fitness,1,899,0,899,Net Banking,Delivered
+ORD5483,2025-04-28,CUST1076,Aditya Kumar,26,Female,Bhopal,Central,Hooded Jacket,Apparel,4,1999,5,7596,Net Banking,Delivered
+ORD5402,2025-04-29,CUST1141,Rahul Kumar,52,Female,Kolkata,East,Casual Sneakers,Footwear,1,1899,10,1709,UPI,Delivered
+ORD5113,2025-04-30,CUST1064,Aadhya Gupta,32,Female,Jaipur,North,Dumbbell Set,Fitness,1,2199,0,2199,Debit Card,Delivered
+ORD5117,2025-04-30,CUST1139,Pari Reddy,48,Male,Chennai,South,Storage Organizer,Home & Kitchen,1,649,0,649,Net Banking,Delivered
+ORD5584,2025-04-30,CUST1088,Ishaan Menon,19,Female,Chennai,South,Running Shoes,Footwear,1,2499,0,2499,UPI,Delivered
+ORD5585,2025-04-30,CUST1054,Manish Kulkarni,27,Male,Surat,West,Storage Organizer,Home & Kitchen,1,649,20,519,Debit Card,Delivered
+ORD5049,2025-05-01,CUST1064,Aadhya Gupta,32,Female,Jaipur,North,Hooded Jacket,Apparel,2,1999,0,3998,Credit Card,Delivered
+ORD5131,2025-05-01,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Running Shoes,Footwear,1,2499,0,2499,Credit Card,Cancelled
+ORD5368,2025-05-02,CUST1175,Krishna Iyer,45,Female,Pune,West,Mechanical Keyboard,Electronics,1,2999,5,2849,Debit Card,Returned
+ORD5354,2025-05-03,CUST1206,Saanvi Pillai,48,Female,Kolkata,East,Mechanical Keyboard,Electronics,3,2999,5,8547,Net Banking,Returned
+ORD5416,2025-05-03,CUST1078,Vihaan Nair,35,Male,Jaipur,North,Mechanical Keyboard,Electronics,1,2999,0,2999,Credit Card,Delivered
+ORD5508,2025-05-03,CUST1031,Anika Reddy,42,Male,Bhopal,Central,Coffee Maker,Home & Kitchen,2,2599,0,5198,UPI,Delivered
+ORD5520,2025-05-03,CUST1134,Riya Joshi,27,Male,Ahmedabad,West,Yoga Mat,Fitness,2,899,0,1798,UPI,Delivered
+ORD5557,2025-05-03,CUST1029,Aditya Patel,47,Male,Jaipur,North,Bluetooth Headphones,Electronics,4,1499,5,5696,Credit Card,Returned
+ORD5335,2025-05-04,CUST1008,Diya Reddy,54,Male,Jaipur,North,Cotton T-Shirt,Apparel,1,499,10,449,Debit Card,Delivered
+ORD5442,2025-05-04,CUST1180,Ishaan Singh,51,Male,Chandigarh,North,Non-stick Pan,Home & Kitchen,1,999,5,949,Credit Card,Delivered
+ORD5455,2025-05-04,CUST1192,Neha Rao,45,Male,Ahmedabad,West,Notebook Set,Stationery,2,199,0,398,Net Banking,Delivered
+ORD5054,2025-05-05,CUST1066,Krishna Reddy,44,Female,Kochi,South,Desk Organizer,Stationery,2,449,0,898,Net Banking,Delivered
+ORD5160,2025-05-05,CUST1007,Riya Rao,54,Male,Bangalore,South,Table Lamp,Home & Kitchen,3,749,0,2247,Credit Card,Delivered
+ORD5181,2025-05-05,CUST1157,Neha Das,42,Female,Lucknow,North,Coffee Maker,Home & Kitchen,1,2599,0,2599,Credit Card,Delivered
+ORD5241,2025-05-06,CUST1219,Vivaan Patel,30,Female,Bhubaneswar,East,Notebook Set,Stationery,2,199,0,398,UPI,Cancelled
+ORD5155,2025-05-08,CUST1105,Rahul Rao,58,Male,Bhubaneswar,East,Coffee Maker,Home & Kitchen,1,2599,10,2339,Net Banking,Delivered
+ORD5215,2025-05-08,CUST1196,Riya Joshi,48,Male,Chandigarh,North,Bluetooth Headphones,Electronics,1,1499,5,1424,UPI,Delivered
+ORD5235,2025-05-08,CUST1106,Vivaan Chauhan,36,Male,Chandigarh,North,Wireless Mouse,Electronics,2,599,10,1078,Debit Card,Delivered
+ORD5338,2025-05-08,CUST1073,Saanvi Iyer,53,Female,Ahmedabad,West,USB-C Charger,Electronics,1,799,5,759,Debit Card,Delivered
+ORD5259,2025-05-09,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,Desk Organizer,Stationery,4,449,10,1616,Credit Card,Cancelled
+ORD5278,2025-05-10,CUST1047,Kiara Das,24,Male,Chandigarh,North,Casual Sneakers,Footwear,1,1899,0,1899,UPI,Cancelled
+ORD5448,2025-05-10,CUST1171,Saanvi Nair,34,Female,Bhopal,Central,Dumbbell Set,Fitness,1,2199,10,1979,Cash on Delivery,Cancelled
+ORD5526,2025-05-10,CUST1159,Aadhya Reddy,54,Male,Lucknow,North,Denim Jeans,Apparel,1,1299,10,1169,Debit Card,Delivered
+ORD5105,2025-05-11,CUST1076,Aditya Kumar,26,Female,Bhopal,Central,Storage Organizer,Home & Kitchen,2,649,5,1233,UPI,Delivered
+ORD5118,2025-05-11,CUST1015,Ananya Joshi,57,Female,Lucknow,North,Dumbbell Set,Fitness,1,2199,0,2199,UPI,Returned
+ORD5127,2025-05-11,CUST1197,Vivaan Desai,28,Female,Bangalore,South,Notebook Set,Stationery,3,199,20,478,Debit Card,Delivered
+ORD5239,2025-05-11,CUST1145,Anika Singh,20,Female,Pune,West,Formal Shoes,Footwear,2,2799,10,5038,Net Banking,Delivered
+ORD5033,2025-05-12,CUST1082,Krishna Menon,25,Female,Nagpur,Central,Hooded Jacket,Apparel,1,1999,0,1999,UPI,Delivered
+ORD5097,2025-05-13,CUST1211,Diya Gupta,47,Male,Bhubaneswar,East,Mechanical Keyboard,Electronics,2,2999,5,5698,Credit Card,Delivered
+ORD5277,2025-05-14,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Table Lamp,Home & Kitchen,1,749,0,749,Credit Card,Delivered
+ORD5534,2025-05-14,CUST1056,Arjun Chauhan,58,Male,Chennai,South,Denim Jeans,Apparel,2,1299,15,2208,UPI,Delivered
+ORD5360,2025-05-16,CUST1019,Ira Reddy,50,Male,Kolkata,East,Storage Organizer,Home & Kitchen,2,649,20,1038,Cash on Delivery,Delivered
+ORD5421,2025-05-16,CUST1177,Riya Kumar,42,Female,Bhubaneswar,East,Formal Shoes,Footwear,1,2799,0,2799,Cash on Delivery,Delivered
+ORD5491,2025-05-16,CUST1200,Myra Patel,38,Male,Chandigarh,North,Casual Sneakers,Footwear,2,1899,10,3418,Net Banking,Delivered
+ORD5558,2025-05-16,CUST1131,Ananya Singh,42,Female,Bhopal,Central,Hooded Jacket,Apparel,1,1999,0,1999,Cash on Delivery,Delivered
+ORD5208,2025-05-17,CUST1051,Manish Patel,20,Female,Pune,West,Running Shoes,Footwear,1,2499,5,2374,Net Banking,Cancelled
+ORD5337,2025-05-17,CUST1146,Aarav Patel,50,Female,Kolkata,East,Running Shoes,Footwear,1,2499,20,1999,Debit Card,Delivered
+ORD5293,2025-05-18,CUST1151,Ishaan Rao,25,Female,Pune,West,Cotton T-Shirt,Apparel,1,499,10,449,UPI,Delivered
+ORD5352,2025-05-18,CUST1073,Saanvi Iyer,53,Female,Ahmedabad,West,Storage Organizer,Home & Kitchen,1,649,0,649,Cash on Delivery,Delivered
+ORD5576,2025-05-18,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Formal Shoes,Footwear,3,2799,20,6718,Cash on Delivery,Cancelled
+ORD5183,2025-05-19,CUST1042,Reyansh Pillai,41,Female,Ahmedabad,West,Formal Shoes,Footwear,1,2799,0,2799,Credit Card,Delivered
+ORD5151,2025-05-21,CUST1021,Sai Menon,44,Female,Mumbai,West,USB-C Charger,Electronics,3,799,10,2157,Credit Card,Delivered
+ORD5178,2025-05-21,CUST1034,Myra Chauhan,38,Male,Surat,West,Denim Jeans,Apparel,3,1299,5,3702,UPI,Delivered
+ORD5149,2025-05-22,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Water Bottle,Fitness,1,349,0,349,Credit Card,Returned
+ORD5543,2025-05-23,CUST1219,Vivaan Patel,30,Female,Bhubaneswar,East,Casual Sneakers,Footwear,3,1899,10,5127,UPI,Returned
+ORD5190,2025-05-24,CUST1102,Pooja Patel,33,Female,Kolkata,East,Notebook Set,Stationery,1,199,15,169,Net Banking,Returned
+ORD5040,2025-05-26,CUST1213,Rahul Iyer,20,Male,Chandigarh,North,Table Lamp,Home & Kitchen,1,749,20,599,Credit Card,Delivered
+ORD5087,2025-05-26,CUST1200,Myra Patel,38,Male,Chandigarh,North,Table Lamp,Home & Kitchen,2,749,15,1273,Debit Card,Delivered
+ORD5191,2025-05-28,CUST1029,Aditya Patel,47,Male,Jaipur,North,Dumbbell Set,Fitness,3,2199,10,5937,Debit Card,Cancelled
+ORD5146,2025-05-29,CUST1067,Sai Bhat,51,Female,Chennai,South,Formal Shoes,Footwear,4,2799,0,11196,Credit Card,Delivered
+ORD5366,2025-05-29,CUST1078,Vihaan Nair,35,Male,Jaipur,North,Non-stick Pan,Home & Kitchen,2,999,0,1998,UPI,Delivered
+ORD5372,2025-05-29,CUST1220,Neha Mehta,43,Male,Hyderabad,South,USB-C Charger,Electronics,1,799,0,799,Debit Card,Returned
+ORD5088,2025-05-30,CUST1109,Kavya Chauhan,20,Female,Kolkata,East,Cotton T-Shirt,Apparel,2,499,15,848,Cash on Delivery,Delivered
+ORD5400,2025-05-31,CUST1179,Rohan Yadav,31,Female,Chennai,South,Mechanical Keyboard,Electronics,1,2999,15,2549,Net Banking,Delivered
+ORD5373,2025-06-01,CUST1012,Sanjay Mehta,47,Female,Nagpur,Central,Non-stick Pan,Home & Kitchen,1,999,0,999,Cash on Delivery,Delivered
+ORD5449,2025-06-01,CUST1020,Arjun Singh,44,Female,Hyderabad,South,Table Lamp,Home & Kitchen,2,749,0,1498,Debit Card,Delivered
+ORD5336,2025-06-02,CUST1053,Aadhya Iyer,22,Female,Patna,East,Hooded Jacket,Apparel,2,1999,5,3798,Credit Card,Delivered
+ORD5411,2025-06-02,CUST1085,Aarav Gupta,35,Female,Jaipur,North,Yoga Mat,Fitness,1,899,10,809,Net Banking,Delivered
+ORD5265,2025-06-03,CUST1056,Arjun Chauhan,58,Male,Chennai,South,Coffee Maker,Home & Kitchen,1,2599,10,2339,Net Banking,Returned
+ORD5065,2025-06-05,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,Yoga Mat,Fitness,2,899,0,1798,Cash on Delivery,Cancelled
+ORD5438,2025-06-06,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Desk Organizer,Stationery,3,449,0,1347,Debit Card,Delivered
+ORD5387,2025-06-07,CUST1102,Pooja Patel,33,Female,Kolkata,East,Table Lamp,Home & Kitchen,3,749,10,2022,Credit Card,Delivered
+ORD5005,2025-06-08,CUST1191,Rahul Nair,44,Female,Bhopal,Central,Bluetooth Headphones,Electronics,1,1499,5,1424,Net Banking,Cancelled
+ORD5017,2025-06-08,CUST1166,Rohan Sharma,57,Male,Bhubaneswar,East,Water Bottle,Fitness,3,349,0,1047,Debit Card,Delivered
+ORD5112,2025-06-08,CUST1186,Diya Mehta,28,Male,Bangalore,South,Wireless Mouse,Electronics,3,599,5,1707,Cash on Delivery,Returned
+ORD5401,2025-06-08,CUST1205,Krishna Patel,21,Male,Jaipur,North,Hooded Jacket,Apparel,2,1999,10,3598,Debit Card,Delivered
+ORD5569,2025-06-08,CUST1160,Vikram Rao,46,Male,Ahmedabad,West,Casual Sneakers,Footwear,1,1899,5,1804,Debit Card,Delivered
+ORD5202,2025-06-09,CUST1044,Ananya Patel,49,Male,Pune,West,Yoga Mat,Fitness,1,899,20,719,Credit Card,Returned
+ORD5566,2025-06-10,CUST1113,Krishna Chauhan,50,Female,Lucknow,North,Mechanical Keyboard,Electronics,3,2999,0,8997,Credit Card,Returned
+ORD5090,2025-06-12,CUST1168,Manish Chauhan,27,Female,Bhubaneswar,East,Coffee Maker,Home & Kitchen,2,2599,0,5198,Debit Card,Cancelled
+ORD5559,2025-06-12,CUST1201,Ananya Verma,57,Female,Chandigarh,North,Mechanical Keyboard,Electronics,1,2999,5,2849,Credit Card,Delivered
+ORD5462,2025-06-13,CUST1104,Rahul Patel,23,Male,Indore,Central,Laptop Stand,Electronics,2,1199,0,2398,Cash on Delivery,Delivered
+ORD5071,2025-06-14,CUST1001,Saanvi Verma,23,Male,Kolkata,East,Cotton T-Shirt,Apparel,1,499,10,449,Cash on Delivery,Delivered
+ORD5158,2025-06-14,CUST1183,Vivaan Patel,57,Male,Bangalore,South,Formal Shoes,Footwear,3,2799,15,7137,Cash on Delivery,Cancelled
+ORD5563,2025-06-14,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Yoga Mat,Fitness,1,899,15,764,UPI,Cancelled
+ORD5502,2025-06-15,CUST1053,Aadhya Iyer,22,Female,Patna,East,Notebook Set,Stationery,1,199,0,199,Net Banking,Delivered
+ORD5073,2025-06-16,CUST1219,Vivaan Patel,30,Female,Bhubaneswar,East,Dumbbell Set,Fitness,1,2199,15,1869,Net Banking,Delivered
+ORD5480,2025-06-16,CUST1006,Anika Iyer,37,Female,Bangalore,South,Table Lamp,Home & Kitchen,1,749,15,637,UPI,Delivered
+ORD5528,2025-06-16,CUST1196,Riya Joshi,48,Male,Chandigarh,North,Desk Organizer,Stationery,3,449,20,1078,Credit Card,Delivered
+ORD5045,2025-06-17,CUST1153,Kavya Das,22,Male,Jaipur,North,Desk Organizer,Stationery,2,449,0,898,Credit Card,Returned
+ORD5289,2025-06-17,CUST1012,Sanjay Mehta,47,Female,Nagpur,Central,Desk Organizer,Stationery,1,449,0,449,UPI,Returned
+ORD5429,2025-06-18,CUST1001,Saanvi Verma,23,Male,Kolkata,East,Coffee Maker,Home & Kitchen,1,2599,5,2469,Net Banking,Delivered
+ORD5084,2025-06-19,CUST1157,Neha Das,42,Female,Lucknow,North,Bluetooth Headphones,Electronics,2,1499,20,2398,Net Banking,Delivered
+ORD5194,2025-06-19,CUST1112,Diya Iyer,57,Female,Hyderabad,South,Notebook Set,Stationery,1,199,0,199,Net Banking,Delivered
+ORD5404,2025-06-20,CUST1051,Manish Patel,20,Female,Pune,West,Non-stick Pan,Home & Kitchen,1,999,0,999,Cash on Delivery,Cancelled
+ORD5588,2025-06-20,CUST1166,Rohan Sharma,57,Male,Bhubaneswar,East,USB-C Charger,Electronics,1,799,5,759,Net Banking,Returned
+ORD5168,2025-06-21,CUST1199,Sai Kulkarni,29,Male,Bhubaneswar,East,Yoga Mat,Fitness,1,899,0,899,Cash on Delivery,Cancelled
+ORD5299,2025-06-21,CUST1120,Manish Rao,28,Male,Delhi,North,Dumbbell Set,Fitness,4,2199,0,8796,Cash on Delivery,Returned
+ORD5471,2025-06-22,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Hooded Jacket,Apparel,1,1999,5,1899,Credit Card,Delivered
+ORD5555,2025-06-23,CUST1018,Saanvi Joshi,20,Female,Patna,East,Cotton T-Shirt,Apparel,1,499,5,474,UPI,Returned
+ORD5287,2025-06-24,CUST1030,Ira Verma,25,Male,Lucknow,North,Yoga Mat,Fitness,1,899,10,809,UPI,Cancelled
+ORD5310,2025-06-24,CUST1065,Amit Joshi,28,Female,Jaipur,North,Notebook Set,Stationery,2,199,20,318,Credit Card,Delivered
+ORD5316,2025-06-24,CUST1021,Sai Menon,44,Female,Mumbai,West,USB-C Charger,Electronics,3,799,15,2037,Credit Card,Cancelled
+ORD5409,2025-06-26,CUST1009,Ira Patel,50,Female,Bhopal,Central,Notebook Set,Stationery,2,199,20,318,Credit Card,Delivered
+ORD5116,2025-06-27,CUST1218,Reyansh Yadav,35,Male,Nagpur,Central,Storage Organizer,Home & Kitchen,2,649,15,1103,UPI,Returned
+ORD5307,2025-06-28,CUST1129,Vikram Menon,46,Male,Ahmedabad,West,Yoga Mat,Fitness,3,899,15,2292,Credit Card,Delivered
+ORD5221,2025-06-29,CUST1104,Rahul Patel,23,Male,Indore,Central,USB-C Charger,Electronics,4,799,0,3196,Credit Card,Returned
+ORD5170,2025-06-30,CUST1084,Manish Iyer,44,Female,Kolkata,East,Table Lamp,Home & Kitchen,1,749,10,674,Cash on Delivery,Delivered
+ORD5311,2025-06-30,CUST1150,Reyansh Rao,31,Male,Kochi,South,USB-C Charger,Electronics,2,799,0,1598,Debit Card,Delivered
+ORD5119,2025-07-01,CUST1203,Manish Chauhan,30,Male,Bhopal,Central,Dumbbell Set,Fitness,1,2199,0,2199,Credit Card,Delivered
+ORD5185,2025-07-01,CUST1113,Krishna Chauhan,50,Female,Lucknow,North,Bluetooth Headphones,Electronics,1,1499,15,1274,UPI,Cancelled
+ORD5212,2025-07-01,CUST1176,Krishna Desai,26,Female,Indore,Central,Notebook Set,Stationery,1,199,10,179,Credit Card,Delivered
+ORD5495,2025-07-01,CUST1079,Kavya Rao,38,Male,Chennai,South,Laptop Stand,Electronics,1,1199,0,1199,UPI,Delivered
+ORD5498,2025-07-01,CUST1136,Rohan Sharma,27,Male,Surat,West,Notebook Set,Stationery,1,199,0,199,UPI,Delivered
+ORD5460,2025-07-04,CUST1014,Kavya Chauhan,45,Male,Kolkata,East,Notebook Set,Stationery,1,199,0,199,Credit Card,Cancelled
+ORD5567,2025-07-04,CUST1017,Pooja Rao,55,Female,Delhi,North,Dumbbell Set,Fitness,1,2199,0,2199,Credit Card,Delivered
+ORD5072,2025-07-05,CUST1110,Manish Kulkarni,47,Female,Mumbai,West,Desk Organizer,Stationery,2,449,10,808,Debit Card,Delivered
+ORD5328,2025-07-05,CUST1143,Krishna Pillai,19,Male,Ahmedabad,West,Coffee Maker,Home & Kitchen,1,2599,15,2209,Credit Card,Delivered
+ORD5086,2025-07-07,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,Mechanical Keyboard,Electronics,1,2999,15,2549,Cash on Delivery,Delivered
+ORD5430,2025-07-07,CUST1163,Vivaan Das,21,Female,Kochi,South,USB-C Charger,Electronics,1,799,5,759,UPI,Delivered
+ORD5548,2025-07-07,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Yoga Mat,Fitness,2,899,0,1798,Net Banking,Delivered
+ORD5227,2025-07-08,CUST1181,Vivaan Reddy,19,Female,Chandigarh,North,Cotton T-Shirt,Apparel,2,499,0,998,Credit Card,Returned
+ORD5274,2025-07-08,CUST1156,Reyansh Nair,52,Female,Hyderabad,South,Denim Jeans,Apparel,2,1299,0,2598,Credit Card,Delivered
+ORD5263,2025-07-09,CUST1082,Krishna Menon,25,Female,Nagpur,Central,Formal Shoes,Footwear,1,2799,5,2659,Credit Card,Delivered
+ORD5003,2025-07-12,CUST1162,Diya Chauhan,20,Female,Hyderabad,South,Dumbbell Set,Fitness,2,2199,0,4398,Net Banking,Delivered
+ORD5219,2025-07-14,CUST1203,Manish Chauhan,30,Male,Bhopal,Central,Formal Shoes,Footwear,1,2799,0,2799,UPI,Delivered
+ORD5358,2025-07-14,CUST1192,Neha Rao,45,Male,Ahmedabad,West,Coffee Maker,Home & Kitchen,1,2599,5,2469,Cash on Delivery,Delivered
+ORD5192,2025-07-16,CUST1075,Aarav Gupta,35,Male,Lucknow,North,Yoga Mat,Fitness,1,899,5,854,Debit Card,Cancelled
+ORD5477,2025-07-16,CUST1074,Ishaan Verma,30,Female,Kolkata,East,Mechanical Keyboard,Electronics,2,2999,15,5098,Debit Card,Returned
+ORD5139,2025-07-17,CUST1192,Neha Rao,45,Male,Ahmedabad,West,Mechanical Keyboard,Electronics,2,2999,20,4798,UPI,Delivered
+ORD5229,2025-07-17,CUST1024,Arjun Singh,33,Male,Jaipur,North,Storage Organizer,Home & Kitchen,3,649,10,1752,Net Banking,Delivered
+ORD5374,2025-07-17,CUST1166,Rohan Sharma,57,Male,Bhubaneswar,East,Desk Organizer,Stationery,3,449,0,1347,Credit Card,Returned
+ORD5353,2025-07-18,CUST1082,Krishna Menon,25,Female,Nagpur,Central,Storage Organizer,Home & Kitchen,1,649,20,519,Cash on Delivery,Delivered
+ORD5542,2025-07-18,CUST1118,Aditya Das,43,Male,Bhubaneswar,East,Hooded Jacket,Apparel,1,1999,0,1999,UPI,Delivered
+ORD5332,2025-07-19,CUST1128,Pari Chauhan,54,Male,Jaipur,North,Casual Sneakers,Footwear,2,1899,0,3798,Credit Card,Delivered
+ORD5443,2025-07-19,CUST1175,Krishna Iyer,45,Female,Pune,West,Bluetooth Headphones,Electronics,1,1499,15,1274,Debit Card,Delivered
+ORD5182,2025-07-22,CUST1049,Neha Joshi,28,Male,Kochi,South,Table Lamp,Home & Kitchen,1,749,20,599,Debit Card,Delivered
+ORD5260,2025-07-22,CUST1021,Sai Menon,44,Female,Mumbai,West,Mechanical Keyboard,Electronics,2,2999,0,5998,Debit Card,Delivered
+ORD5343,2025-07-23,CUST1024,Arjun Singh,33,Male,Jaipur,North,Water Bottle,Fitness,1,349,15,297,UPI,Delivered
+ORD5057,2025-07-24,CUST1067,Sai Bhat,51,Female,Chennai,South,Laptop Stand,Electronics,3,1199,0,3597,Credit Card,Cancelled
+ORD5486,2025-07-24,CUST1162,Diya Chauhan,20,Female,Hyderabad,South,Cotton T-Shirt,Apparel,2,499,5,948,Net Banking,Delivered
+ORD5042,2025-07-25,CUST1202,Rahul Singh,58,Female,Jaipur,North,Laptop Stand,Electronics,2,1199,0,2398,UPI,Delivered
+ORD5169,2025-07-25,CUST1216,Vikram Kumar,29,Female,Patna,East,Notebook Set,Stationery,3,199,15,507,UPI,Returned
+ORD5199,2025-07-25,CUST1135,Sanjay Singh,43,Female,Lucknow,North,Formal Shoes,Footwear,1,2799,0,2799,Net Banking,Cancelled
+ORD5076,2025-07-26,CUST1199,Sai Kulkarni,29,Male,Bhubaneswar,East,Non-stick Pan,Home & Kitchen,1,999,0,999,Credit Card,Returned
+ORD5474,2025-07-26,CUST1219,Vivaan Patel,30,Female,Bhubaneswar,East,Notebook Set,Stationery,2,199,5,378,Net Banking,Delivered
+ORD5225,2025-07-27,CUST1215,Sneha Nair,33,Male,Ahmedabad,West,Formal Shoes,Footwear,1,2799,0,2799,Net Banking,Delivered
+ORD5308,2025-07-27,CUST1053,Aadhya Iyer,22,Female,Patna,East,Wireless Mouse,Electronics,3,599,10,1617,Cash on Delivery,Delivered
+ORD5553,2025-07-27,CUST1029,Aditya Patel,47,Male,Jaipur,North,Non-stick Pan,Home & Kitchen,2,999,5,1898,Cash on Delivery,Delivered
+ORD5587,2025-07-27,CUST1069,Ananya Desai,48,Female,Kolkata,East,Laptop Stand,Electronics,1,1199,0,1199,Cash on Delivery,Returned
+ORD5153,2025-07-28,CUST1052,Pari Singh,56,Female,Hyderabad,South,Wireless Mouse,Electronics,1,599,10,539,UPI,Cancelled
+ORD5426,2025-07-28,CUST1003,Aadhya Gupta,34,Male,Chandigarh,North,Hooded Jacket,Apparel,4,1999,0,7996,UPI,Delivered
+ORD5523,2025-07-28,CUST1175,Krishna Iyer,45,Female,Pune,West,Desk Organizer,Stationery,1,449,0,449,Net Banking,Returned
+ORD5058,2025-07-29,CUST1065,Amit Joshi,28,Female,Jaipur,North,Water Bottle,Fitness,1,349,0,349,Credit Card,Returned
+ORD5334,2025-07-29,CUST1173,Sanjay Reddy,23,Female,Kochi,South,Yoga Mat,Fitness,1,899,5,854,Credit Card,Delivered
+ORD5575,2025-07-29,CUST1109,Kavya Chauhan,20,Female,Kolkata,East,Running Shoes,Footwear,1,2499,15,2124,Net Banking,Delivered
+ORD5009,2025-07-31,CUST1078,Vihaan Nair,35,Male,Jaipur,North,Laptop Stand,Electronics,1,1199,5,1139,Debit Card,Returned
+ORD5035,2025-07-31,CUST1218,Reyansh Yadav,35,Male,Nagpur,Central,Denim Jeans,Apparel,2,1299,0,2598,Cash on Delivery,Delivered
+ORD5570,2025-07-31,CUST1058,Krishna Patel,36,Male,Delhi,North,Hooded Jacket,Apparel,1,1999,0,1999,UPI,Cancelled
+ORD5593,2025-07-31,CUST1012,Sanjay Mehta,47,Female,Nagpur,Central,Casual Sneakers,Footwear,3,1899,5,5412,Net Banking,Cancelled
+ORD5573,2025-08-02,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Cotton T-Shirt,Apparel,1,499,0,499,Credit Card,Delivered
+ORD5597,2025-08-02,CUST1086,Aditya Das,51,Female,Bangalore,South,USB-C Charger,Electronics,1,799,0,799,Cash on Delivery,Cancelled
+ORD5099,2025-08-04,CUST1128,Pari Chauhan,54,Male,Jaipur,North,Notebook Set,Stationery,1,199,15,169,Cash on Delivery,Returned
+ORD5172,2025-08-04,CUST1052,Pari Singh,56,Female,Hyderabad,South,Table Lamp,Home & Kitchen,2,749,0,1498,Cash on Delivery,Delivered
+ORD5269,2025-08-04,CUST1073,Saanvi Iyer,53,Female,Ahmedabad,West,USB-C Charger,Electronics,2,799,5,1518,UPI,Delivered
+ORD5399,2025-08-06,CUST1169,Sneha Rao,28,Male,Bangalore,South,Cotton T-Shirt,Apparel,2,499,0,998,UPI,Delivered
+ORD5485,2025-08-06,CUST1058,Krishna Patel,36,Male,Delhi,North,Running Shoes,Footwear,1,2499,5,2374,UPI,Delivered
+ORD5126,2025-08-07,CUST1146,Aarav Patel,50,Female,Kolkata,East,Casual Sneakers,Footwear,1,1899,10,1709,Cash on Delivery,Delivered
+ORD5195,2025-08-07,CUST1215,Sneha Nair,33,Male,Ahmedabad,West,Formal Shoes,Footwear,4,2799,0,11196,UPI,Delivered
+ORD5043,2025-08-08,CUST1109,Kavya Chauhan,20,Female,Kolkata,East,Wireless Mouse,Electronics,1,599,0,599,Net Banking,Returned
+ORD5364,2025-08-08,CUST1083,Pari Rao,32,Male,Surat,West,Dumbbell Set,Fitness,1,2199,15,1869,Cash on Delivery,Delivered
+ORD5237,2025-08-09,CUST1183,Vivaan Patel,57,Male,Bangalore,South,Bluetooth Headphones,Electronics,1,1499,5,1424,Debit Card,Delivered
+ORD5525,2025-08-09,CUST1184,Pari Nair,47,Female,Lucknow,North,Wireless Mouse,Electronics,2,599,0,1198,Credit Card,Delivered
+ORD5257,2025-08-11,CUST1190,Vihaan Das,54,Male,Chandigarh,North,Notebook Set,Stationery,1,199,5,189,Credit Card,Delivered
+ORD5037,2025-08-12,CUST1183,Vivaan Patel,57,Male,Bangalore,South,USB-C Charger,Electronics,2,799,0,1598,Net Banking,Delivered
+ORD5222,2025-08-12,CUST1100,Aarav Menon,23,Male,Ahmedabad,West,Casual Sneakers,Footwear,1,1899,0,1899,Debit Card,Delivered
+ORD5378,2025-08-12,CUST1145,Anika Singh,20,Female,Pune,West,Non-stick Pan,Home & Kitchen,4,999,10,3596,Cash on Delivery,Delivered
+ORD5499,2025-08-12,CUST1050,Sneha Reddy,52,Male,Delhi,North,Cotton T-Shirt,Apparel,4,499,20,1597,Cash on Delivery,Cancelled
+ORD5078,2025-08-13,CUST1051,Manish Patel,20,Female,Pune,West,Coffee Maker,Home & Kitchen,2,2599,5,4938,UPI,Cancelled
+ORD5340,2025-08-13,CUST1218,Reyansh Yadav,35,Male,Nagpur,Central,Yoga Mat,Fitness,1,899,10,809,Cash on Delivery,Delivered
+ORD5392,2025-08-13,CUST1211,Diya Gupta,47,Male,Bhubaneswar,East,Hooded Jacket,Apparel,1,1999,0,1999,Credit Card,Delivered
+ORD5552,2025-08-13,CUST1215,Sneha Nair,33,Male,Ahmedabad,West,Yoga Mat,Fitness,1,899,0,899,UPI,Delivered
+ORD5177,2025-08-14,CUST1022,Priya Desai,36,Female,Kochi,South,Non-stick Pan,Home & Kitchen,2,999,20,1598,Net Banking,Delivered
+ORD5147,2025-08-15,CUST1015,Ananya Joshi,57,Female,Lucknow,North,Denim Jeans,Apparel,1,1299,5,1234,Debit Card,Returned
+ORD5290,2025-08-17,CUST1009,Ira Patel,50,Female,Bhopal,Central,Formal Shoes,Footwear,1,2799,0,2799,Net Banking,Delivered
+ORD5376,2025-08-17,CUST1171,Saanvi Nair,34,Female,Bhopal,Central,Casual Sneakers,Footwear,1,1899,0,1899,Cash on Delivery,Delivered
+ORD5481,2025-08-17,CUST1118,Aditya Das,43,Male,Bhubaneswar,East,Mechanical Keyboard,Electronics,1,2999,5,2849,Net Banking,Returned
+ORD5410,2025-08-19,CUST1169,Sneha Rao,28,Male,Bangalore,South,Denim Jeans,Apparel,1,1299,0,1299,Credit Card,Delivered
+ORD5463,2025-08-19,CUST1069,Ananya Desai,48,Female,Kolkata,East,Laptop Stand,Electronics,1,1199,15,1019,Cash on Delivery,Returned
+ORD5540,2025-08-19,CUST1166,Rohan Sharma,57,Male,Bhubaneswar,East,Table Lamp,Home & Kitchen,2,749,0,1498,UPI,Delivered
+ORD5141,2025-08-20,CUST1037,Vikram Kulkarni,38,Male,Bhopal,Central,Hooded Jacket,Apparel,1,1999,0,1999,Credit Card,Returned
+ORD5198,2025-08-20,CUST1119,Vikram Kumar,22,Female,Bhubaneswar,East,Yoga Mat,Fitness,1,899,10,809,UPI,Delivered
+ORD5056,2025-08-21,CUST1219,Vivaan Patel,30,Female,Bhubaneswar,East,Formal Shoes,Footwear,2,2799,5,5318,Debit Card,Delivered
+ORD5393,2025-08-21,CUST1182,Kavya Joshi,21,Female,Kochi,South,Casual Sneakers,Footwear,3,1899,5,5412,Cash on Delivery,Delivered
+ORD5592,2025-08-21,CUST1167,Vihaan Chauhan,48,Female,Jaipur,North,Cotton T-Shirt,Apparel,1,499,0,499,Net Banking,Cancelled
+ORD5062,2025-08-22,CUST1164,Ishaan Patel,23,Female,Delhi,North,Yoga Mat,Fitness,1,899,0,899,Credit Card,Delivered
+ORD5216,2025-08-22,CUST1041,Diya Sharma,20,Female,Kochi,South,Notebook Set,Stationery,3,199,0,597,Cash on Delivery,Delivered
+ORD5390,2025-08-22,CUST1037,Vikram Kulkarni,38,Male,Bhopal,Central,Yoga Mat,Fitness,4,899,0,3596,Net Banking,Cancelled
+ORD5518,2025-08-23,CUST1191,Rahul Nair,44,Female,Bhopal,Central,Casual Sneakers,Footwear,1,1899,15,1614,UPI,Delivered
+ORD5044,2025-08-24,CUST1044,Ananya Patel,49,Male,Pune,West,Dumbbell Set,Fitness,4,2199,5,8356,Net Banking,Delivered
+ORD5180,2025-08-24,CUST1167,Vihaan Chauhan,48,Female,Jaipur,North,Dumbbell Set,Fitness,1,2199,10,1979,Debit Card,Returned
+ORD5047,2025-08-25,CUST1177,Riya Kumar,42,Female,Bhubaneswar,East,Cotton T-Shirt,Apparel,2,499,0,998,Credit Card,Cancelled
+ORD5066,2025-08-25,CUST1135,Sanjay Singh,43,Female,Lucknow,North,Formal Shoes,Footwear,4,2799,20,8957,Credit Card,Delivered
+ORD5252,2025-08-25,CUST1109,Kavya Chauhan,20,Female,Kolkata,East,Running Shoes,Footwear,2,2499,0,4998,Credit Card,Delivered
+ORD5425,2025-08-25,CUST1159,Aadhya Reddy,54,Male,Lucknow,North,Running Shoes,Footwear,3,2499,0,7497,Credit Card,Returned
+ORD5053,2025-08-26,CUST1178,Kiara Singh,30,Male,Kolkata,East,Formal Shoes,Footwear,1,2799,5,2659,Credit Card,Delivered
+ORD5233,2025-08-26,CUST1033,Diya Chauhan,26,Male,Patna,East,Dumbbell Set,Fitness,1,2199,0,2199,Credit Card,Cancelled
+ORD5019,2025-08-27,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Dumbbell Set,Fitness,3,2199,10,5937,Cash on Delivery,Delivered
+ORD5082,2025-08-27,CUST1120,Manish Rao,28,Male,Delhi,North,Notebook Set,Stationery,1,199,0,199,Cash on Delivery,Delivered
+ORD5137,2025-08-28,CUST1207,Riya Singh,46,Female,Ahmedabad,West,Mechanical Keyboard,Electronics,3,2999,15,7647,Credit Card,Cancelled
+ORD5298,2025-08-28,CUST1012,Sanjay Mehta,47,Female,Nagpur,Central,Casual Sneakers,Footwear,1,1899,0,1899,Net Banking,Delivered
+ORD5417,2025-08-28,CUST1128,Pari Chauhan,54,Male,Jaipur,North,Cotton T-Shirt,Apparel,1,499,0,499,Credit Card,Delivered
+ORD5067,2025-08-29,CUST1034,Myra Chauhan,38,Male,Surat,West,USB-C Charger,Electronics,3,799,5,2277,Net Banking,Cancelled
+ORD5069,2025-08-29,CUST1120,Manish Rao,28,Male,Delhi,North,Denim Jeans,Apparel,2,1299,5,2468,Credit Card,Delivered
+ORD5108,2025-08-29,CUST1081,Vivaan Sharma,20,Male,Lucknow,North,Yoga Mat,Fitness,4,899,10,3236,Credit Card,Cancelled
+ORD5506,2025-08-29,CUST1195,Aadhya Nair,46,Male,Bangalore,South,USB-C Charger,Electronics,2,799,10,1438,Cash on Delivery,Delivered
+ORD5101,2025-08-30,CUST1122,Sneha Das,54,Male,Mumbai,West,Water Bottle,Fitness,1,349,0,349,Credit Card,Delivered
+ORD5135,2025-08-30,CUST1151,Ishaan Rao,25,Female,Pune,West,Notebook Set,Stationery,1,199,10,179,Debit Card,Delivered
+ORD5507,2025-08-30,CUST1167,Vihaan Chauhan,48,Female,Jaipur,North,Formal Shoes,Footwear,2,2799,5,5318,Credit Card,Returned
+ORD5010,2025-09-01,CUST1151,Ishaan Rao,25,Female,Pune,West,Mechanical Keyboard,Electronics,1,2999,5,2849,Credit Card,Delivered
+ORD5061,2025-09-01,CUST1026,Ira Yadav,39,Male,Ahmedabad,West,Notebook Set,Stationery,1,199,0,199,UPI,Returned
+ORD5439,2025-09-01,CUST1126,Rahul Singh,38,Female,Bhubaneswar,East,Desk Organizer,Stationery,1,449,0,449,Cash on Delivery,Delivered
+ORD5497,2025-09-01,CUST1125,Ananya Rao,38,Female,Surat,West,USB-C Charger,Electronics,3,799,10,2157,UPI,Delivered
+ORD5560,2025-09-01,CUST1072,Vivaan Nair,36,Male,Bhubaneswar,East,Yoga Mat,Fitness,1,899,10,809,Debit Card,Delivered
+ORD5018,2025-09-02,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,Bluetooth Headphones,Electronics,4,1499,10,5396,Net Banking,Cancelled
+ORD5249,2025-09-05,CUST1036,Reyansh Kulkarni,42,Male,Bangalore,South,Mechanical Keyboard,Electronics,2,2999,5,5698,Credit Card,Delivered
+ORD5294,2025-09-05,CUST1007,Riya Rao,54,Male,Bangalore,South,Hooded Jacket,Apparel,4,1999,5,7596,UPI,Delivered
+ORD5312,2025-09-06,CUST1199,Sai Kulkarni,29,Male,Bhubaneswar,East,Water Bottle,Fitness,2,349,20,558,Credit Card,Delivered
+ORD5107,2025-09-07,CUST1080,Pari Nair,36,Female,Bhubaneswar,East,Denim Jeans,Apparel,2,1299,0,2598,UPI,Returned
+ORD5200,2025-09-07,CUST1147,Krishna Bhat,42,Male,Lucknow,North,Mechanical Keyboard,Electronics,3,2999,20,7198,Cash on Delivery,Delivered
+ORD5346,2025-09-07,CUST1013,Vihaan Kulkarni,45,Male,Bhopal,Central,Hooded Jacket,Apparel,1,1999,0,1999,Net Banking,Delivered
+ORD5059,2025-09-08,CUST1168,Manish Chauhan,27,Female,Bhubaneswar,East,Hooded Jacket,Apparel,2,1999,0,3998,UPI,Delivered
+ORD5143,2025-09-09,CUST1147,Krishna Bhat,42,Male,Lucknow,North,Denim Jeans,Apparel,1,1299,0,1299,Debit Card,Delivered
+ORD5568,2025-09-09,CUST1017,Pooja Rao,55,Female,Delhi,North,Coffee Maker,Home & Kitchen,1,2599,15,2209,Credit Card,Cancelled
+ORD5154,2025-09-10,CUST1133,Saanvi Kumar,40,Male,Pune,West,Yoga Mat,Fitness,1,899,15,764,UPI,Delivered
+ORD5431,2025-09-10,CUST1167,Vihaan Chauhan,48,Female,Jaipur,North,Yoga Mat,Fitness,2,899,15,1528,Cash on Delivery,Cancelled
+ORD5039,2025-09-11,CUST1025,Ishaan Rao,19,Male,Pune,West,Coffee Maker,Home & Kitchen,2,2599,15,4418,Debit Card,Returned
+ORD5159,2025-09-11,CUST1148,Amit Mehta,45,Female,Mumbai,West,Bluetooth Headphones,Electronics,1,1499,0,1499,Net Banking,Delivered
+ORD5406,2025-09-12,CUST1135,Sanjay Singh,43,Female,Lucknow,North,USB-C Charger,Electronics,1,799,0,799,Credit Card,Delivered
+ORD5562,2025-09-13,CUST1176,Krishna Desai,26,Female,Indore,Central,Bluetooth Headphones,Electronics,1,1499,0,1499,Net Banking,Cancelled
+ORD5579,2025-09-13,CUST1207,Riya Singh,46,Female,Ahmedabad,West,Table Lamp,Home & Kitchen,2,749,0,1498,Net Banking,Cancelled
+ORD5093,2025-09-14,CUST1049,Neha Joshi,28,Male,Kochi,South,Coffee Maker,Home & Kitchen,2,2599,10,4678,Net Banking,Returned
+ORD5164,2025-09-14,CUST1012,Sanjay Mehta,47,Female,Nagpur,Central,Cotton T-Shirt,Apparel,1,499,5,474,UPI,Delivered
+ORD5301,2025-09-14,CUST1187,Vivaan Pillai,32,Male,Hyderabad,South,Mechanical Keyboard,Electronics,1,2999,0,2999,Debit Card,Delivered
+ORD5089,2025-09-17,CUST1104,Rahul Patel,23,Male,Indore,Central,Hooded Jacket,Apparel,1,1999,0,1999,Credit Card,Delivered
+ORD5203,2025-09-18,CUST1029,Aditya Patel,47,Male,Jaipur,North,Denim Jeans,Apparel,2,1299,15,2208,Credit Card,Delivered
+ORD5478,2025-09-18,CUST1183,Vivaan Patel,57,Male,Bangalore,South,USB-C Charger,Electronics,2,799,5,1518,Net Banking,Delivered
+ORD5268,2025-09-19,CUST1001,Saanvi Verma,23,Male,Kolkata,East,Bluetooth Headphones,Electronics,3,1499,15,3822,Credit Card,Delivered
+ORD5280,2025-09-20,CUST1058,Krishna Patel,36,Male,Delhi,North,Storage Organizer,Home & Kitchen,2,649,0,1298,Net Banking,Returned
+ORD5379,2025-09-20,CUST1046,Sanjay Nair,46,Female,Kochi,South,USB-C Charger,Electronics,1,799,5,759,Credit Card,Delivered
+ORD5423,2025-09-20,CUST1056,Arjun Chauhan,58,Male,Chennai,South,Formal Shoes,Footwear,1,2799,10,2519,UPI,Cancelled
+ORD5282,2025-09-21,CUST1130,Krishna Gupta,30,Female,Bhopal,Central,Laptop Stand,Electronics,2,1199,20,1918,Cash on Delivery,Delivered
+ORD5561,2025-09-21,CUST1047,Kiara Das,24,Male,Chandigarh,North,Table Lamp,Home & Kitchen,1,749,10,674,Cash on Delivery,Delivered
+ORD5122,2025-09-22,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Notebook Set,Stationery,2,199,0,398,Credit Card,Delivered
+ORD5367,2025-09-22,CUST1116,Manish Mehta,19,Female,Kolkata,East,Coffee Maker,Home & Kitchen,2,2599,0,5198,UPI,Delivered
+ORD5490,2025-09-22,CUST1043,Aditya Singh,25,Male,Bhubaneswar,East,Denim Jeans,Apparel,2,1299,0,2598,Cash on Delivery,Delivered
+ORD5013,2025-09-23,CUST1090,Diya Nair,19,Female,Kolkata,East,Desk Organizer,Stationery,2,449,0,898,Cash on Delivery,Cancelled
+ORD5124,2025-09-23,CUST1040,Sneha Singh,44,Male,Bhopal,Central,Hooded Jacket,Apparel,2,1999,0,3998,UPI,Returned
+ORD5120,2025-09-25,CUST1102,Pooja Patel,33,Female,Kolkata,East,Notebook Set,Stationery,1,199,0,199,Cash on Delivery,Delivered
+ORD5288,2025-09-26,CUST1212,Aditya Mehta,51,Male,Jaipur,North,Cotton T-Shirt,Apparel,1,499,0,499,Cash on Delivery,Delivered
+ORD5371,2025-09-26,CUST1066,Krishna Reddy,44,Female,Kochi,South,Formal Shoes,Footwear,1,2799,0,2799,Cash on Delivery,Cancelled
+ORD5148,2025-09-27,CUST1131,Ananya Singh,42,Female,Bhopal,Central,Mechanical Keyboard,Electronics,1,2999,10,2699,Credit Card,Delivered
+ORD5578,2025-09-29,CUST1074,Ishaan Verma,30,Female,Kolkata,East,Running Shoes,Footwear,3,2499,0,7497,Debit Card,Delivered
+ORD5014,2025-09-30,CUST1064,Aadhya Gupta,32,Female,Jaipur,North,Running Shoes,Footwear,3,2499,0,7497,Cash on Delivery,Delivered
+ORD5530,2025-09-30,CUST1001,Saanvi Verma,23,Male,Kolkata,East,Formal Shoes,Footwear,3,2799,10,7557,UPI,Delivered
+ORD5220,2025-10-01,CUST1075,Aarav Gupta,35,Male,Lucknow,North,Dumbbell Set,Fitness,2,2199,0,4398,Debit Card,Delivered
+ORD5272,2025-10-01,CUST1022,Priya Desai,36,Female,Kochi,South,Storage Organizer,Home & Kitchen,1,649,5,617,Credit Card,Cancelled
+ORD5419,2025-10-01,CUST1143,Krishna Pillai,19,Male,Ahmedabad,West,Casual Sneakers,Footwear,4,1899,15,6457,Credit Card,Returned
+ORD5193,2025-10-02,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Coffee Maker,Home & Kitchen,1,2599,0,2599,Credit Card,Delivered
+ORD5196,2025-10-02,CUST1013,Vihaan Kulkarni,45,Male,Bhopal,Central,Cotton T-Shirt,Apparel,2,499,5,948,Net Banking,Delivered
+ORD5036,2025-10-03,CUST1133,Saanvi Kumar,40,Male,Pune,West,Laptop Stand,Electronics,1,1199,10,1079,Credit Card,Returned
+ORD5407,2025-10-04,CUST1125,Ananya Rao,38,Female,Surat,West,Cotton T-Shirt,Apparel,3,499,5,1422,Credit Card,Delivered
+ORD5547,2025-10-05,CUST1069,Ananya Desai,48,Female,Kolkata,East,Mechanical Keyboard,Electronics,4,2999,0,11996,Credit Card,Cancelled
+ORD5247,2025-10-06,CUST1140,Aarav Iyer,33,Male,Bhopal,Central,Running Shoes,Footwear,4,2499,5,9496,Credit Card,Delivered
+ORD5370,2025-10-06,CUST1147,Krishna Bhat,42,Male,Lucknow,North,Cotton T-Shirt,Apparel,1,499,0,499,Debit Card,Delivered
+ORD5529,2025-10-06,CUST1004,Vivaan Yadav,26,Male,Nagpur,Central,Water Bottle,Fitness,1,349,0,349,Debit Card,Delivered
+ORD5077,2025-10-08,CUST1157,Neha Das,42,Female,Lucknow,North,Desk Organizer,Stationery,4,449,0,1796,Debit Card,Cancelled
+ORD5572,2025-10-08,CUST1208,Pari Menon,30,Male,Bhubaneswar,East,Cotton T-Shirt,Apparel,2,499,5,948,Cash on Delivery,Cancelled
+ORD5447,2025-10-10,CUST1145,Anika Singh,20,Female,Pune,West,Cotton T-Shirt,Apparel,2,499,10,898,Net Banking,Cancelled
+ORD5021,2025-10-11,CUST1086,Aditya Das,51,Female,Bangalore,South,Cotton T-Shirt,Apparel,2,499,0,998,Cash on Delivery,Cancelled
+ORD5161,2025-10-12,CUST1159,Aadhya Reddy,54,Male,Lucknow,North,Running Shoes,Footwear,1,2499,0,2499,UPI,Delivered
+ORD5224,2025-10-12,CUST1051,Manish Patel,20,Female,Pune,West,Cotton T-Shirt,Apparel,1,499,10,449,Cash on Delivery,Delivered
+ORD5276,2025-10-12,CUST1177,Riya Kumar,42,Female,Bhubaneswar,East,USB-C Charger,Electronics,1,799,5,759,Cash on Delivery,Returned
+ORD5324,2025-10-12,CUST1109,Kavya Chauhan,20,Female,Kolkata,East,Yoga Mat,Fitness,1,899,5,854,Net Banking,Delivered
+ORD5369,2025-10-12,CUST1134,Riya Joshi,27,Male,Ahmedabad,West,Hooded Jacket,Apparel,3,1999,0,5997,UPI,Delivered
+ORD5255,2025-10-13,CUST1114,Aarav Chauhan,47,Female,Jaipur,North,Non-stick Pan,Home & Kitchen,2,999,0,1998,UPI,Delivered
+ORD5539,2025-10-13,CUST1138,Kiara Singh,25,Male,Surat,West,Wireless Mouse,Electronics,1,599,0,599,Cash on Delivery,Delivered
+ORD5246,2025-10-14,CUST1126,Rahul Singh,38,Female,Bhubaneswar,East,Casual Sneakers,Footwear,1,1899,10,1709,Credit Card,Delivered
+ORD5600,2025-10-14,CUST1088,Ishaan Menon,19,Female,Chennai,South,Table Lamp,Home & Kitchen,1,749,0,749,Credit Card,Delivered
+ORD5231,2025-10-15,CUST1083,Pari Rao,32,Male,Surat,West,Casual Sneakers,Footwear,2,1899,0,3798,Net Banking,Delivered
+ORD5435,2025-10-15,CUST1193,Riya Joshi,45,Female,Patna,East,Formal Shoes,Footwear,1,2799,5,2659,Cash on Delivery,Delivered
+ORD5556,2025-10-16,CUST1019,Ira Reddy,50,Male,Kolkata,East,Table Lamp,Home & Kitchen,1,749,10,674,Cash on Delivery,Returned
+ORD5125,2025-10-17,CUST1025,Ishaan Rao,19,Male,Pune,West,Bluetooth Headphones,Electronics,1,1499,15,1274,Net Banking,Delivered
+ORD5110,2025-10-18,CUST1099,Rahul Sharma,53,Male,Mumbai,West,Non-stick Pan,Home & Kitchen,4,999,10,3596,Debit Card,Delivered
+ORD5271,2025-10-18,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Non-stick Pan,Home & Kitchen,3,999,10,2697,Cash on Delivery,Delivered
+ORD5467,2025-10-18,CUST1116,Manish Mehta,19,Female,Kolkata,East,Wireless Mouse,Electronics,1,599,15,509,Debit Card,Delivered
+ORD5103,2025-10-19,CUST1056,Arjun Chauhan,58,Male,Chennai,South,Laptop Stand,Electronics,1,1199,0,1199,Cash on Delivery,Delivered
+ORD5479,2025-10-19,CUST1055,Aarav Menon,30,Male,Indore,Central,Formal Shoes,Footwear,1,2799,0,2799,Debit Card,Delivered
+ORD5115,2025-10-20,CUST1074,Ishaan Verma,30,Female,Kolkata,East,Mechanical Keyboard,Electronics,3,2999,15,7647,Debit Card,Delivered
+ORD5156,2025-10-22,CUST1213,Rahul Iyer,20,Male,Chandigarh,North,Yoga Mat,Fitness,1,899,10,809,UPI,Returned
+ORD5357,2025-10-23,CUST1084,Manish Iyer,44,Female,Kolkata,East,Non-stick Pan,Home & Kitchen,1,999,0,999,Cash on Delivery,Delivered
+ORD5484,2025-10-23,CUST1204,Pari Nair,43,Female,Chandigarh,North,Casual Sneakers,Footwear,1,1899,20,1519,UPI,Returned
+ORD5339,2025-10-24,CUST1175,Krishna Iyer,45,Female,Pune,West,Desk Organizer,Stationery,2,449,5,853,Credit Card,Delivered
+ORD5375,2025-10-25,CUST1159,Aadhya Reddy,54,Male,Lucknow,North,Casual Sneakers,Footwear,4,1899,15,6457,UPI,Delivered
+ORD5213,2025-10-26,CUST1009,Ira Patel,50,Female,Bhopal,Central,Cotton T-Shirt,Apparel,2,499,15,848,Debit Card,Delivered
+ORD5026,2025-10-27,CUST1147,Krishna Bhat,42,Male,Lucknow,North,Denim Jeans,Apparel,2,1299,0,2598,Net Banking,Delivered
+ORD5189,2025-10-27,CUST1106,Vivaan Chauhan,36,Male,Chandigarh,North,Laptop Stand,Electronics,1,1199,10,1079,Cash on Delivery,Delivered
+ORD5029,2025-10-30,CUST1179,Rohan Yadav,31,Female,Chennai,South,USB-C Charger,Electronics,2,799,0,1598,Credit Card,Delivered
+ORD5504,2025-10-30,CUST1053,Aadhya Iyer,22,Female,Patna,East,Yoga Mat,Fitness,1,899,0,899,Credit Card,Delivered
+ORD5537,2025-10-30,CUST1165,Ananya Pillai,21,Female,Bhubaneswar,East,Cotton T-Shirt,Apparel,2,499,10,898,UPI,Delivered
+ORD5100,2025-10-31,CUST1115,Arjun Bhat,41,Female,Patna,East,USB-C Charger,Electronics,1,799,0,799,Credit Card,Cancelled
+ORD5165,2025-10-31,CUST1032,Ira Das,28,Female,Jaipur,North,Laptop Stand,Electronics,1,1199,0,1199,Credit Card,Delivered
+ORD5176,2025-11-01,CUST1079,Kavya Rao,38,Male,Chennai,South,Yoga Mat,Fitness,2,899,0,1798,Debit Card,Returned
+ORD5320,2025-11-03,CUST1023,Sanjay Das,33,Male,Patna,East,Desk Organizer,Stationery,1,449,5,427,Debit Card,Delivered
+ORD5111,2025-11-04,CUST1072,Vivaan Nair,36,Male,Bhubaneswar,East,Bluetooth Headphones,Electronics,2,1499,10,2698,Net Banking,Delivered
+ORD5295,2025-11-04,CUST1020,Arjun Singh,44,Female,Hyderabad,South,Running Shoes,Footwear,2,2499,5,4748,Cash on Delivery,Delivered
+ORD5034,2025-11-05,CUST1184,Pari Nair,47,Female,Lucknow,North,Yoga Mat,Fitness,3,899,10,2427,Cash on Delivery,Returned
+ORD5330,2025-11-07,CUST1129,Vikram Menon,46,Male,Ahmedabad,West,Casual Sneakers,Footwear,2,1899,0,3798,Credit Card,Delivered
+ORD5445,2025-11-07,CUST1128,Pari Chauhan,54,Male,Jaipur,North,Hooded Jacket,Apparel,4,1999,5,7596,Credit Card,Delivered
+ORD5016,2025-11-08,CUST1142,Aditya Rao,52,Male,Delhi,North,Casual Sneakers,Footwear,1,1899,0,1899,Net Banking,Cancelled
+ORD5236,2025-11-08,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,Laptop Stand,Electronics,1,1199,0,1199,Credit Card,Cancelled
+ORD5300,2025-11-08,CUST1086,Aditya Das,51,Female,Bangalore,South,Formal Shoes,Footwear,1,2799,5,2659,Credit Card,Delivered
+ORD5187,2025-11-09,CUST1172,Myra Desai,53,Female,Delhi,North,Yoga Mat,Fitness,1,899,0,899,Net Banking,Delivered
+ORD5296,2025-11-09,CUST1041,Diya Sharma,20,Female,Kochi,South,Non-stick Pan,Home & Kitchen,1,999,15,849,UPI,Returned
+ORD5444,2025-11-09,CUST1039,Vikram Kulkarni,40,Male,Indore,Central,Yoga Mat,Fitness,1,899,0,899,Debit Card,Delivered
+ORD5359,2025-11-10,CUST1091,Myra Kumar,51,Male,Mumbai,West,USB-C Charger,Electronics,1,799,5,759,Debit Card,Cancelled
+ORD5492,2025-11-10,CUST1194,Rahul Patel,44,Female,Lucknow,North,Denim Jeans,Apparel,2,1299,20,2078,UPI,Cancelled
+ORD5519,2025-11-10,CUST1182,Kavya Joshi,21,Female,Kochi,South,Casual Sneakers,Footwear,2,1899,20,3038,Net Banking,Delivered
+ORD5063,2025-11-11,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Table Lamp,Home & Kitchen,2,749,0,1498,UPI,Delivered
+ORD5048,2025-11-13,CUST1130,Krishna Gupta,30,Female,Bhopal,Central,Casual Sneakers,Footwear,1,1899,10,1709,Credit Card,Delivered
+ORD5106,2025-11-13,CUST1003,Aadhya Gupta,34,Male,Chandigarh,North,Bluetooth Headphones,Electronics,1,1499,10,1349,Cash on Delivery,Delivered
+ORD5461,2025-11-14,CUST1070,Ananya Kulkarni,58,Female,Chandigarh,North,Denim Jeans,Apparel,3,1299,5,3702,Cash on Delivery,Delivered
+ORD5027,2025-11-15,CUST1044,Ananya Patel,49,Male,Pune,West,Mechanical Keyboard,Electronics,1,2999,0,2999,Debit Card,Delivered
+ORD5286,2025-11-15,CUST1031,Anika Reddy,42,Male,Bhopal,Central,Mechanical Keyboard,Electronics,1,2999,15,2549,Net Banking,Delivered
+ORD5313,2025-11-17,CUST1071,Vihaan Singh,25,Male,Bhopal,Central,Cotton T-Shirt,Apparel,1,499,10,449,Credit Card,Delivered
+ORD5436,2025-11-17,CUST1148,Amit Mehta,45,Female,Mumbai,West,Bluetooth Headphones,Electronics,1,1499,10,1349,Debit Card,Cancelled
+ORD5244,2025-11-18,CUST1114,Aarav Chauhan,47,Female,Jaipur,North,Hooded Jacket,Apparel,2,1999,10,3598,Cash on Delivery,Cancelled
+ORD5024,2025-11-19,CUST1050,Sneha Reddy,52,Male,Delhi,North,Dumbbell Set,Fitness,1,2199,0,2199,Net Banking,Cancelled
+ORD5109,2025-11-19,CUST1038,Diya Nair,41,Male,Patna,East,Laptop Stand,Electronics,1,1199,5,1139,Cash on Delivery,Delivered
+ORD5238,2025-11-19,CUST1040,Sneha Singh,44,Male,Bhopal,Central,Dumbbell Set,Fitness,2,2199,5,4178,Credit Card,Cancelled
+ORD5251,2025-11-19,CUST1035,Pooja Mehta,35,Female,Bangalore,South,Mechanical Keyboard,Electronics,2,2999,0,5998,Net Banking,Delivered
+ORD5466,2025-11-19,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Dumbbell Set,Fitness,1,2199,0,2199,Debit Card,Delivered
+ORD5590,2025-11-19,CUST1174,Reyansh Reddy,45,Female,Bhopal,Central,Running Shoes,Footwear,1,2499,0,2499,Net Banking,Delivered
+ORD5123,2025-11-20,CUST1012,Sanjay Mehta,47,Female,Nagpur,Central,Coffee Maker,Home & Kitchen,1,2599,0,2599,UPI,Delivered
+ORD5188,2025-11-20,CUST1025,Ishaan Rao,19,Male,Pune,West,Coffee Maker,Home & Kitchen,1,2599,5,2469,Credit Card,Cancelled
+ORD5205,2025-11-20,CUST1016,Aditya Gupta,36,Female,Nagpur,Central,Notebook Set,Stationery,2,199,0,398,UPI,Cancelled
+ORD5494,2025-11-20,CUST1068,Reyansh Joshi,39,Male,Bhubaneswar,East,Storage Organizer,Home & Kitchen,1,649,0,649,Debit Card,Delivered
+ORD5031,2025-11-21,CUST1064,Aadhya Gupta,32,Female,Jaipur,North,Casual Sneakers,Footwear,1,1899,0,1899,Debit Card,Delivered
+ORD5303,2025-11-21,CUST1198,Pooja Kulkarni,29,Male,Lucknow,North,Laptop Stand,Electronics,3,1199,10,3237,UPI,Returned
+ORD5509,2025-11-21,CUST1101,Pooja Chauhan,35,Male,Bhopal,Central,Notebook Set,Stationery,2,199,15,338,UPI,Cancelled
+ORD5001,2025-11-22,CUST1203,Manish Chauhan,30,Male,Bhopal,Central,Cotton T-Shirt,Apparel,1,499,5,474,Cash on Delivery,Delivered
+ORD5305,2025-11-22,CUST1078,Vihaan Nair,35,Male,Jaipur,North,Hooded Jacket,Apparel,2,1999,5,3798,Debit Card,Delivered
+ORD5162,2025-11-23,CUST1025,Ishaan Rao,19,Male,Pune,West,Casual Sneakers,Footwear,1,1899,15,1614,Cash on Delivery,Returned
+ORD5394,2025-11-24,CUST1053,Aadhya Iyer,22,Female,Patna,East,Casual Sneakers,Footwear,1,1899,0,1899,UPI,Delivered
+ORD5433,2025-11-24,CUST1214,Amit Reddy,31,Male,Indore,Central,Notebook Set,Stationery,1,199,0,199,Debit Card,Returned
+ORD5098,2025-11-25,CUST1108,Vikram Reddy,54,Male,Surat,West,Bluetooth Headphones,Electronics,1,1499,0,1499,UPI,Returned
+ORD5130,2025-11-25,CUST1031,Anika Reddy,42,Male,Bhopal,Central,USB-C Charger,Electronics,1,799,5,759,Net Banking,Delivered
+ORD5250,2025-11-25,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Table Lamp,Home & Kitchen,2,749,0,1498,Debit Card,Delivered
+ORD5493,2025-11-25,CUST1017,Pooja Rao,55,Female,Delhi,North,Yoga Mat,Fitness,1,899,0,899,Net Banking,Cancelled
+ORD5020,2025-11-26,CUST1045,Sneha Gupta,26,Female,Ahmedabad,West,Formal Shoes,Footwear,4,2799,0,11196,UPI,Delivered
+ORD5028,2025-11-26,CUST1037,Vikram Kulkarni,38,Male,Bhopal,Central,Wireless Mouse,Electronics,1,599,0,599,UPI,Cancelled
+ORD5032,2025-11-27,CUST1123,Kavya Bhat,47,Male,Delhi,North,Laptop Stand,Electronics,1,1199,10,1079,Debit Card,Delivered
+ORD5083,2025-11-28,CUST1108,Vikram Reddy,54,Male,Surat,West,USB-C Charger,Electronics,1,799,0,799,UPI,Delivered
+ORD5133,2025-11-28,CUST1215,Sneha Nair,33,Male,Ahmedabad,West,Bluetooth Headphones,Electronics,1,1499,5,1424,UPI,Delivered
+ORD5055,2025-12-01,CUST1151,Ishaan Rao,25,Female,Pune,West,Water Bottle,Fitness,3,349,10,942,Net Banking,Cancelled
+ORD5321,2025-12-01,CUST1119,Vikram Kumar,22,Female,Bhubaneswar,East,Wireless Mouse,Electronics,1,599,0,599,UPI,Delivered
+ORD5351,2025-12-01,CUST1093,Saanvi Sharma,38,Female,Mumbai,West,Cotton T-Shirt,Apparel,1,499,10,449,Net Banking,Delivered
+ORD5437,2025-12-01,CUST1212,Aditya Mehta,51,Male,Jaipur,North,Dumbbell Set,Fitness,1,2199,0,2199,Debit Card,Cancelled
+ORD5096,2025-12-02,CUST1010,Riya Menon,42,Female,Bhubaneswar,East,Water Bottle,Fitness,2,349,15,593,Debit Card,Delivered
+ORD5240,2025-12-02,CUST1090,Diya Nair,19,Female,Kolkata,East,Wireless Mouse,Electronics,1,599,10,539,UPI,Delivered
+ORD5403,2025-12-02,CUST1084,Manish Iyer,44,Female,Kolkata,East,Dumbbell Set,Fitness,1,2199,0,2199,UPI,Returned
+ORD5389,2025-12-03,CUST1054,Manish Kulkarni,27,Male,Surat,West,Storage Organizer,Home & Kitchen,2,649,20,1038,Net Banking,Delivered
+ORD5544,2025-12-04,CUST1217,Sanjay Menon,28,Female,Nagpur,Central,Casual Sneakers,Footwear,1,1899,0,1899,Net Banking,Cancelled
+ORD5234,2025-12-06,CUST1071,Vihaan Singh,25,Male,Bhopal,Central,Running Shoes,Footwear,1,2499,10,2249,Debit Card,Cancelled
+ORD5365,2025-12-06,CUST1040,Sneha Singh,44,Male,Bhopal,Central,Cotton T-Shirt,Apparel,1,499,0,499,Net Banking,Returned
+ORD5386,2025-12-06,CUST1134,Riya Joshi,27,Male,Ahmedabad,West,Cotton T-Shirt,Apparel,1,499,0,499,Net Banking,Delivered
+ORD5414,2025-12-06,CUST1107,Rohan Kulkarni,37,Female,Kochi,South,Notebook Set,Stationery,3,199,0,597,Credit Card,Cancelled
+ORD5532,2025-12-06,CUST1118,Aditya Das,43,Male,Bhubaneswar,East,Running Shoes,Footwear,1,2499,0,2499,Credit Card,Returned
+ORD5068,2025-12-08,CUST1185,Rahul Pillai,58,Female,Delhi,North,Formal Shoes,Footwear,3,2799,0,8397,Cash on Delivery,Cancelled
+ORD5102,2025-12-09,CUST1161,Reyansh Joshi,53,Female,Chandigarh,North,Wireless Mouse,Electronics,1,599,0,599,UPI,Delivered
+ORD5292,2025-12-09,CUST1039,Vikram Kulkarni,40,Male,Indore,Central,Storage Organizer,Home & Kitchen,4,649,15,2207,Credit Card,Delivered
+ORD5472,2025-12-09,CUST1183,Vivaan Patel,57,Male,Bangalore,South,Mechanical Keyboard,Electronics,1,2999,5,2849,Credit Card,Delivered
+ORD5306,2025-12-10,CUST1141,Rahul Kumar,52,Female,Kolkata,East,Dumbbell Set,Fitness,1,2199,10,1979,Cash on Delivery,Delivered
+ORD5517,2025-12-10,CUST1170,Kiara Joshi,57,Male,Bhubaneswar,East,Storage Organizer,Home & Kitchen,2,649,5,1233,Net Banking,Delivered
+ORD5245,2025-12-11,CUST1131,Ananya Singh,42,Female,Bhopal,Central,Bluetooth Headphones,Electronics,2,1499,0,2998,Credit Card,Returned
+ORD5396,2025-12-12,CUST1189,Vivaan Chauhan,54,Female,Jaipur,North,Running Shoes,Footwear,1,2499,10,2249,Debit Card,Cancelled
+ORD5070,2025-12-14,CUST1069,Ananya Desai,48,Female,Kolkata,East,Dumbbell Set,Fitness,2,2199,20,3518,Cash on Delivery,Delivered
+ORD5380,2025-12-15,CUST1190,Vihaan Das,54,Male,Chandigarh,North,Casual Sneakers,Footwear,1,1899,0,1899,Net Banking,Delivered
+ORD5261,2025-12-16,CUST1095,Myra Iyer,37,Male,Patna,East,Running Shoes,Footwear,4,2499,5,9496,UPI,Delivered
+ORD5451,2025-12-16,CUST1127,Saanvi Reddy,29,Male,Indore,Central,Yoga Mat,Fitness,2,899,0,1798,Net Banking,Delivered
+ORD5197,2025-12-17,CUST1159,Aadhya Reddy,54,Male,Lucknow,North,Water Bottle,Fitness,1,349,5,332,Cash on Delivery,Delivered
+ORD5505,2025-12-17,CUST1113,Krishna Chauhan,50,Female,Lucknow,North,Non-stick Pan,Home & Kitchen,2,999,20,1598,Cash on Delivery,Cancelled
+ORD5428,2025-12-18,CUST1198,Pooja Kulkarni,29,Male,Lucknow,North,Mechanical Keyboard,Electronics,1,2999,20,2399,UPI,Delivered
+ORD5094,2025-12-19,CUST1097,Neha Singh,24,Male,Indore,Central,Desk Organizer,Stationery,1,449,10,404,UPI,Returned
+ORD5535,2025-12-20,CUST1046,Sanjay Nair,46,Female,Kochi,South,Desk Organizer,Stationery,1,449,10,404,Debit Card,Cancelled
+ORD5201,2025-12-21,CUST1197,Vivaan Desai,28,Female,Bangalore,South,Desk Organizer,Stationery,3,449,5,1280,UPI,Returned
+ORD5470,2025-12-21,CUST1043,Aditya Singh,25,Male,Bhubaneswar,East,Running Shoes,Footwear,4,2499,5,9496,Cash on Delivery,Delivered
+ORD5581,2025-12-21,CUST1152,Sanjay Singh,50,Female,Bhopal,Central,Cotton T-Shirt,Apparel,2,499,0,998,Credit Card,Delivered
+ORD5104,2025-12-22,CUST1188,Neha Joshi,30,Female,Bhubaneswar,East,Running Shoes,Footwear,4,2499,0,9996,UPI,Delivered
+ORD5179,2025-12-22,CUST1190,Vihaan Das,54,Male,Chandigarh,North,Storage Organizer,Home & Kitchen,1,649,5,617,Credit Card,Returned
+ORD5230,2025-12-22,CUST1038,Diya Nair,41,Male,Patna,East,Denim Jeans,Apparel,1,1299,10,1169,Credit Card,Delivered
+ORD5302,2025-12-24,CUST1146,Aarav Patel,50,Female,Kolkata,East,Notebook Set,Stationery,1,199,20,159,Net Banking,Delivered
+ORD5080,2025-12-25,CUST1143,Krishna Pillai,19,Male,Ahmedabad,West,Bluetooth Headphones,Electronics,1,1499,15,1274,Credit Card,Delivered
+ORD5564,2025-12-25,CUST1220,Neha Mehta,43,Male,Hyderabad,South,Yoga Mat,Fitness,2,899,10,1618,UPI,Delivered
+ORD5420,2025-12-26,CUST1025,Ishaan Rao,19,Male,Pune,West,Wireless Mouse,Electronics,1,599,0,599,Credit Card,Returned
+ORD5223,2025-12-28,CUST1171,Saanvi Nair,34,Female,Bhopal,Central,Wireless Mouse,Electronics,1,599,0,599,UPI,Delivered
+ORD5264,2025-12-28,CUST1015,Ananya Joshi,57,Female,Lucknow,North,Bluetooth Headphones,Electronics,1,1499,15,1274,UPI,Delivered
+ORD5326,2025-12-28,CUST1199,Sai Kulkarni,29,Male,Bhubaneswar,East,Denim Jeans,Apparel,2,1299,5,2468,Net Banking,Delivered
+ORD5206,2025-12-30,CUST1178,Kiara Singh,30,Male,Kolkata,East,Water Bottle,Fitness,1,349,0,349,Net Banking,Cancelled
+ORD5331,2025-12-30,CUST1046,Sanjay Nair,46,Female,Kochi,South,Running Shoes,Footwear,1,2499,0,2499,Cash on Delivery,Delivered
+ORD5030,2025-12-31,CUST1210,Saanvi Reddy,23,Male,Kochi,South,Storage Organizer,Home & Kitchen,3,649,0,1947,UPI,Delivered
+ORD5218,2025-12-31,CUST1173,Sanjay Reddy,23,Female,Kochi,South,Notebook Set,Stationery,1,199,0,199,UPI,Delivered
+ORD5325,2025-12-31,CUST1148,Amit Mehta,45,Female,Mumbai,West,Hooded Jacket,Apparel,1,1999,5,1899,UPI,Delivered
+ORD5469,2025-12-31,CUST1193,Riya Joshi,45,Female,Patna,East,Desk Organizer,Stationery,2,449,0,898,Debit Card,Delivered
+ORD5595,2025-12-31,CUST1002,Vivaan Kulkarni,32,Male,Patna,East,Running Shoes,Footwear,1,2499,0,2499,UPI,Delivered
